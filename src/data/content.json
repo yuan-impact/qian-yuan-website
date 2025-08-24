@@ -678,10 +678,22 @@
  },
  "footer": {
    "researchAreas": [
-     "Publications",
-     "Collaborations",
-     "Academic Resources",
-     "Contact Information"
+     {
+       "name": "Giant Impact LLSVPs",
+       "slug": "giant-impact-llsvps"
+     },
+     {
+       "name": "Subduction Initiation",
+       "slug": "subduction-initiation"
+     },
+     {
+       "name": "LLSVP Morphologies",
+       "slug": "llsvp-morphologies"
+     },
+     {
+       "name": "Lithium Isotope Studies",
+       "slug": "lithium-isotope-humite"
+     }
    ]
  }
 }

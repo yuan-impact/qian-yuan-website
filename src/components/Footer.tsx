@@ -43,12 +43,19 @@ const Footer = () => {
             </ul>
           </div>
 
-          {/* Resources */}
+          {/* Research Areas */}
           <div>
-            <h3 className="text-white font-semibold mb-4">Resources</h3>
+            <h3 className="text-white font-semibold mb-4">Research Areas</h3>
             <ul className="space-y-2">
-              {content.footer.researchAreas.map((area: string, index: number) => (
-                <li key={index} className="text-gray-400 text-sm">{area}</li>
+              {content.footer.researchAreas.map((area: { name: string; slug: string }, index: number) => (
+                <li key={index}>
+                  <Link
+                    href={`/research/${area.slug}`}
+                    className="text-gray-400 hover:text-blue-400 transition-colors duration-200 text-sm"
+                  >
+                    {area.name}
+                  </Link>
+                </li>
               ))}
             </ul>
           </div>
