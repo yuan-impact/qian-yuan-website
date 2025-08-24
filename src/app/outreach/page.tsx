@@ -146,41 +146,6 @@ export default function Outreach() {
         </div>
       </section>
 
-      {/* Educational Resources */}
-      <section className="section-padding bg-slate-800/50">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center mb-16">
-            <h2 className="text-3xl md:text-4xl font-bold font-display mb-6 text-white">
-              {outreachContent.resourcesTitle}
-            </h2>
-            <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-              {outreachContent.resourcesSubtitle}
-            </p>
-          </div>
-
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-            {outreachContent.resources.map((resource: any, index: number) => (
-              <div key={index} className="bg-slate-800 p-8 rounded-xl text-center border border-slate-700 hover:border-blue-500/50 transition-all duration-300 group">
-                <div className="text-5xl mb-6 group-hover:scale-110 transition-transform duration-300">
-                  {resource.icon}
-                </div>
-                <h3 className="text-xl font-bold font-display text-white mb-4 group-hover:text-blue-400 transition-colors">
-                  {resource.title}
-                </h3>
-                <p className="text-gray-300 text-sm leading-relaxed mb-4">
-                  {resource.description}
-                </p>
-                <div className="text-blue-400 font-semibold text-sm mb-6">
-                  {resource.items}
-                </div>
-                <button className="btn-primary px-6 py-3 rounded-lg font-semibold text-white hover:shadow-lg transition-all duration-300">
-                  Access Resources
-                </button>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
 
       {/* Call to Action */}
       <section className="section-padding bg-gradient-to-r from-blue-900/20 to-cyan-900/20">
