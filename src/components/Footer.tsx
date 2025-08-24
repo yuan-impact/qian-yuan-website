@@ -43,9 +43,9 @@ const Footer = () => {
             </ul>
           </div>
 
-          {/* Research Areas */}
+          {/* Resources */}
           <div>
-            <h3 className="text-white font-semibold mb-4">Research Areas</h3>
+            <h3 className="text-white font-semibold mb-4">Resources</h3>
             <ul className="space-y-2">
               {content.footer.researchAreas.map((area: string, index: number) => (
                 <li key={index} className="text-gray-400 text-sm">{area}</li>
@@ -73,9 +73,7 @@ const Footer = () => {
               >
                 Privacy
               </Link>
-              <div className="text-gray-500 text-sm">
-                Built with Next.js
-              </div>
+
             </div>
           </div>
         </div>
