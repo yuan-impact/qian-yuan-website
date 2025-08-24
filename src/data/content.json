@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Dr. Qian Yuan",
+    "title": "Dr. Qian Yuan ",
     "subtitle": "Academic Researcher",
     "description": "Research in Geophysics, Geochemistry, Igneous Petrology, and Geochronology"
   },
@@ -27,19 +27,31 @@
   "hero": {
     "slides": [
       {
-        "image": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
+        "image": "https://lh3.googleusercontent.com/d/1a41GHdXX5TtlwFQkxo3idpiP0Vjq3oUX",
         "title": "Exploring Earth's Deep Processes",
         "subtitle": "Understanding planetary formation and evolution through geophysical research",
         "alt": "Beautiful view of Earth from space showing atmospheric layers"
       },
       {
-        "image": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?ixlib=rb-4.0.3&auto=format&fit=crop&w=2128&q=80",
+        "image": "https://lh3.googleusercontent.com/d/1co_6KbSrkwfir4zdfNoCl0kxbK7C125V",
         "title": "Geochemical Investigations",
         "subtitle": "Analyzing isotopic signatures to unlock Earth's history",
         "alt": "Mars surface with rocky terrain and atmospheric haze"
       },
       {
-        "image": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
+        "image": "https://lh3.googleusercontent.com/d/1O0vGFqmhiAnaT7937lAUca4H_qd4Jn3Q",
+        "title": "Igneous Petrology Research",
+        "subtitle": "Studying magmatic processes and rock formation",
+        "alt": "Stunning view of Jupiter with its distinctive bands and storms"
+      },
+      {
+        "image": "https://lh3.googleusercontent.com/d/1Lna5gqduvftmKCeMFNVw9ly2HGrpQdxe",
+        "title": "Igneous Petrology Research",
+        "subtitle": "Studying magmatic processes and rock formation",
+        "alt": "Stunning view of Jupiter with its distinctive bands and storms"
+      },
+      {
+        "image": "https://lh3.googleusercontent.com/d/1qfF1HqHUhUht4YzD1y0sZk9teORtbTVX",
         "title": "Igneous Petrology Research",
         "subtitle": "Studying magmatic processes and rock formation",
         "alt": "Stunning view of Jupiter with its distinctive bands and storms"
