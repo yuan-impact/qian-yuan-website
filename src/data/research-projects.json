@@ -1,0 +1,140 @@
+{
+  "giant-impact-llsvps": {
+    "title": "GEOPHYSICS: GIANT IMPACT ORIGIN OF LLSVPS",
+    "subtitle": "Understanding Large Low Shear Velocity Provinces through Giant Impact Theory",
+    "content": "Large Low Shear Velocity Provinces (LLSVPs) are massive structures in Earth's lower mantle that have puzzled scientists for decades. Our research investigates the hypothesis that these features originated from ancient giant impact events during Earth's early formation.",
+    "sections": [
+      {
+        "title": "Research Overview",
+        "content": "We employ numerical modeling and seismic analysis to understand how giant impacts during Earth's accretion could have created the observed LLSVP structures. Our models suggest that impact-generated material could have settled in the lower mantle and persisted for billions of years."
+      },
+      {
+        "title": "Methodology",
+        "content": "Our approach combines high-resolution numerical simulations of giant impacts with seismic tomography data analysis. We use advanced computational techniques to model the long-term evolution of impact-generated heterogeneities in the mantle."
+      },
+      {
+        "title": "Key Findings",
+        "content": "Our research provides compelling evidence that LLSVPs could indeed be remnants of ancient giant impacts, offering new insights into Earth's early bombardment history and mantle evolution."
+      }
+    ],
+    "publications": [
+      {
+        "title": "Giant Impact Origin of LLSVPs: Evidence from Numerical Modeling",
+        "authors": "Yuan, Q., et al.",
+        "journal": "Nature Geoscience",
+        "year": "2024",
+        "doi": "10.1038/s41561-024-xxxxx"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+        "alt": "Numerical model showing LLSVP formation from giant impact",
+        "caption": "3D visualization of LLSVP formation following a giant impact event"
+      }
+    ]
+  },
+  "subduction-initiation": {
+    "title": "GEOPHYSICS: SUBDUCTION INITIATION",
+    "subtitle": "Mechanisms and Processes of Subduction Zone Formation",
+    "content": "Subduction initiation is one of the most important processes in plate tectonics, yet the mechanisms that trigger the onset of subduction remain poorly understood. Our research investigates the geophysical and geochemical signatures of subduction initiation.",
+    "sections": [
+      {
+        "title": "Research Focus",
+        "content": "We study the conditions and processes that lead to the formation of new subduction zones, combining field observations, laboratory experiments, and numerical modeling to understand this fundamental tectonic process."
+      },
+      {
+        "title": "Analytical Approaches",
+        "content": "Our research employs multi-scale modeling approaches, from local stress field analysis to global geodynamic simulations, to understand the initiation and early evolution of subduction systems."
+      }
+    ],
+    "publications": [],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+        "alt": "Mars surface showing geological formations",
+        "caption": "Geological processes on Mars provide insights into subduction initiation mechanisms"
+      }
+    ]
+  },
+  "llsvp-morphologies": {
+    "title": "GEOPHYSICS: DIFFERENT MORPHOLOGIES OF LLSVPS",
+    "subtitle": "Structural Variations in Large Low Shear Velocity Provinces",
+    "content": "LLSVPs exhibit distinct morphological characteristics that provide insights into their origin and evolution. Our research focuses on understanding the structural diversity of these deep mantle features.",
+    "sections": [
+      {
+        "title": "Morphological Analysis",
+        "content": "We analyze seismic tomography data to characterize the three-dimensional structure and morphology of LLSVPs, identifying key differences between the African and Pacific provinces."
+      }
+    ],
+    "publications": [],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+        "alt": "Jupiter with its distinctive atmospheric bands",
+        "caption": "Planetary structures analogous to LLSVP morphological variations"
+      }
+    ]
+  },
+  "lithium-isotope-humite": {
+    "title": "GEOCHEMISTRY: LITHIUM ISOTOPE IN HUMITE",
+    "subtitle": "Lithium Isotopic Signatures in Humite Group Minerals",
+    "content": "Humite group minerals provide unique insights into deep Earth processes through their lithium isotopic compositions. Our research investigates how these signatures can be used to understand mantle evolution and fluid-rock interactions.",
+    "sections": [
+      {
+        "title": "Analytical Techniques",
+        "content": "We employ high-precision mass spectrometry to measure lithium isotope ratios in humite group minerals, developing new analytical protocols for small sample sizes."
+      }
+    ],
+    "publications": [],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1614313913007-2b4ae8ce32d6?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+        "alt": "Earth from space showing atmospheric layers",
+        "caption": "Atmospheric processes analogous to lithium isotope fractionation"
+      }
+    ]
+  },
+  "mush-emplacement-bushveld": {
+    "title": "IGNEOUS PETROLOGY: MUSH EMPLACEMENT IN BUSHVELD",
+    "subtitle": "Magmatic Processes in the Bushveld Complex",
+    "content": "The Bushveld Complex represents one of the world's largest layered intrusions. Our research investigates the emplacement mechanisms and evolution of crystal mushes in this iconic igneous system.",
+    "sections": [
+      {
+        "title": "Petrological Analysis",
+        "content": "We study the textural and chemical characteristics of Bushveld rocks to understand the processes of mush emplacement and differentiation in large magmatic systems."
+      }
+    ],
+    "publications": [],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+        "alt": "Jupiter's Great Red Spot",
+        "caption": "Complex fluid dynamics similar to magmatic mush emplacement processes"
+      }
+    ]
+  },
+  "zircon-coronas-fe-ti-oxides": {
+    "title": "GEOCHRONOLOGY: ZIRCON CORONAS AROUND FE-TI OXIDES",
+    "subtitle": "Temporal Constraints from Zircon Corona Textures",
+    "content": "Zircon coronas around Fe-Ti oxide minerals provide unique geochronological constraints on metamorphic and igneous processes. Our research develops new approaches to date these complex textural relationships.",
+    "sections": [
+      {
+        "title": "Geochronological Methods",
+        "content": "We use high-resolution ion microprobe techniques to date zircon coronas, providing precise temporal constraints on the formation and evolution of Fe-Ti oxide-bearing assemblages."
+      },
+      {
+        "title": "Textural Analysis",
+        "content": "Detailed petrographic and electron microscopy studies reveal the complex relationships between zircon coronas and their host Fe-Ti oxides, informing our geochronological interpretations."
+      }
+    ],
+    "publications": [],
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+        "alt": "Mars surface with mineral formations",
+        "caption": "Mineral textures and formations analogous to zircon corona structures"
+      }
+    ]
+  }
+}

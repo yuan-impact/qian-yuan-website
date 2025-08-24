@@ -1,0 +1,675 @@
+{
+  "site": {
+    "title": "Dr. Qian Yuan",
+    "subtitle": "Academic Researcher",
+    "description": "Research in Geophysics, Geochemistry, Igneous Petrology, and Geochronology"
+  },
+  "navigation": [
+    { "name": "Home", "path": "/", "id": "home" },
+    { 
+      "name": "Research", 
+      "path": "/research", 
+      "id": "research",
+      "children": [
+        { "name": "Giant Impact Origin of LLSVPs", "path": "/research/giant-impact-llsvps", "id": "giant-impact" },
+        { "name": "Subduction Initiation", "path": "/research/subduction-initiation", "id": "subduction" },
+        { "name": "Different Morphologies of LLSVPs", "path": "/research/llsvp-morphologies", "id": "morphologies" },
+        { "name": "Lithium Isotope in Humite", "path": "/research/lithium-isotope-humite", "id": "lithium" },
+        { "name": "Mush Emplacement in Bushveld", "path": "/research/mush-emplacement-bushveld", "id": "bushveld" },
+        { "name": "Zircon Coronas Around Fe-Ti Oxides", "path": "/research/zircon-coronas-fe-ti-oxides", "id": "zircon" }
+      ]
+    },
+    { "name": "People", "path": "/people", "id": "people" },
+    { "name": "Outreach", "path": "/outreach", "id": "outreach" },
+    { "name": "News", "path": "/news", "id": "news" },
+    { "name": "Join Us", "path": "/join-us", "id": "join" }
+  ],
+  "hero": {
+    "slides": [
+      {
+        "image": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
+        "title": "Exploring Earth's Deep Processes",
+        "subtitle": "Understanding planetary formation and evolution through geophysical research",
+        "alt": "Beautiful view of Earth from space showing atmospheric layers"
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?ixlib=rb-4.0.3&auto=format&fit=crop&w=2128&q=80",
+        "title": "Geochemical Investigations",
+        "subtitle": "Analyzing isotopic signatures to unlock Earth's history",
+        "alt": "Mars surface with rocky terrain and atmospheric haze"
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
+        "title": "Igneous Petrology Research",
+        "subtitle": "Studying magmatic processes and rock formation",
+        "alt": "Stunning view of Jupiter with its distinctive bands and storms"
+      }
+    ]
+  },
+  "pages": {
+    "home": {
+      "title": "Welcome to Dr. Qian Yuan's Research",
+      "content": "Dr. Qian Yuan is a leading researcher in geophysics, geochemistry, igneous petrology, and geochronology. Our research focuses on understanding Earth's deep processes, planetary formation, and the evolution of our planet through time.",
+      "sections": [
+        {
+          "title": "Research Focus",
+          "content": "Our interdisciplinary approach combines geophysical modeling, geochemical analysis, and petrological studies to investigate fundamental questions about Earth's structure and evolution."
+        },
+        {
+          "title": "Current Projects",
+          "content": "We are currently investigating the giant impact origin of Large Low Shear Velocity Provinces (LLSVPs), subduction initiation processes, and the geochemical signatures preserved in various mineral systems."
+        }
+      ],
+      "researchAreasTitle": "Research Areas",
+      "researchAreasSubtitle": "Exploring fundamental questions in Earth sciences through interdisciplinary research",
+      "researchAreas": [
+        {
+          "title": "Geophysics",
+          "description": "Understanding Earth's deep structure and dynamics",
+          "icon": "🌍"
+        },
+        {
+          "title": "Geochemistry",
+          "description": "Analyzing isotopic signatures and chemical processes",
+          "icon": "⚗️"
+        },
+        {
+          "title": "Igneous Petrology",
+          "description": "Studying magmatic processes and rock formation",
+          "icon": "🔥"
+        },
+        {
+          "title": "Geochronology",
+          "description": "Dating geological events and processes",
+          "icon": "⏰"
+        }
+      ],
+      "ctaTitle": "Interested in Our Research?",
+      "ctaSubtitle": "Explore our latest findings, publications, and opportunities to join our research team."
+    },
+    "research": {
+      "title": "Research Overview",
+      "content": "Our research spans multiple disciplines within Earth sciences, focusing on understanding the fundamental processes that shape our planet. We employ cutting-edge analytical techniques and computational modeling to investigate Earth's deep structure and evolution.",
+      "sections": [
+        {
+          "title": "Geophysics",
+          "content": "We study Earth's deep structure using seismic data and numerical modeling to understand mantle dynamics and the origin of large-scale heterogeneities."
+        },
+        {
+          "title": "Geochemistry",
+          "content": "Our geochemical research focuses on isotopic systems that preserve information about Earth's early history and ongoing processes."
+        },
+        {
+          "title": "Igneous Petrology",
+          "content": "We investigate magmatic processes and the formation of igneous rocks to understand crustal evolution and mantle-crust interactions."
+        },
+        {
+          "title": "Geochronology",
+          "content": "Using advanced dating techniques, we determine the timing of geological processes and construct temporal frameworks for Earth's evolution."
+        }
+      ],
+      "researchAreasTitle": "Research Areas",
+      "researchAreasSubtitle": "Explore our cutting-edge research across multiple disciplines in Earth sciences",
+      "methodologyTitle": "Our Approach",
+      "methodologyContent": "We employ cutting-edge analytical techniques and computational methods to understand Earth's complex processes across multiple scales and time periods.",
+      "methods": [
+        "High-precision isotopic analysis",
+        "Advanced computational modeling",
+        "Multi-scale experimental studies",
+        "Interdisciplinary collaboration"
+      ],
+      "impactTitle": "Research Impact",
+      "impactStats": [
+        {
+          "value": "50+",
+          "label": "Publications"
+        },
+        {
+          "value": "15+",
+          "label": "Collaborations"
+        },
+        {
+          "value": "10+",
+          "label": "Awards"
+        },
+        {
+          "value": "25+",
+          "label": "Students"
+        }
+      ],
+      "ctaTitle": "Collaborate With Us",
+      "ctaSubtitle": "Interested in our research? We welcome collaborations, student applications, and research partnerships."
+    },
+    "people": {
+      "title": "Research Team",
+      "content": "Our diverse research team brings together expertise from multiple disciplines to tackle complex questions in Earth sciences.",
+      "teamSectionTitle": "Our Research Team",
+      "teamSectionSubtitle": "Meet the dedicated researchers advancing our understanding of Earth sciences",
+      "team": [
+        {
+          "name": "Dr. Qian Yuan",
+          "title": "Principal Investigator",
+          "affiliation": "Department of Earth Sciences",
+          "image": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "bio": "Dr. Yuan is a leading researcher in geophysics and planetary science, specializing in Earth's deep structure and early evolution.",
+          "expertise": ["Geophysics", "Planetary Science", "Numerical Modeling"],
+          "email": "qyuan@university.edu"
+        },
+        {
+          "name": "Dr. Sarah Johnson",
+          "title": "Postdoctoral Researcher",
+          "affiliation": "Department of Earth Sciences",
+          "image": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "bio": "Dr. Johnson focuses on geochemical analysis and isotopic studies of early Earth materials.",
+          "expertise": ["Geochemistry", "Isotope Analysis", "Early Earth"],
+          "email": "sjohnson@university.edu"
+        },
+        {
+          "name": "Michael Chen",
+          "title": "PhD Student",
+          "affiliation": "Graduate Program in Earth Sciences",
+          "image": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "bio": "Michael's research focuses on computational modeling of mantle dynamics and subduction processes.",
+          "expertise": ["Computational Modeling", "Mantle Dynamics", "Subduction"],
+          "email": "mchen@university.edu"
+        },
+        {
+          "name": "Emily Rodriguez",
+          "title": "PhD Student",
+          "affiliation": "Graduate Program in Earth Sciences",
+          "image": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "bio": "Emily studies igneous petrology and magmatic processes in large igneous provinces.",
+          "expertise": ["Igneous Petrology", "Magmatic Processes", "Field Geology"],
+          "email": "erodriguez@university.edu"
+        },
+        {
+          "name": "David Kim",
+          "title": "Master's Student",
+          "affiliation": "Graduate Program in Earth Sciences",
+          "image": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "bio": "David is investigating geochronological methods for dating ancient geological events.",
+          "expertise": ["Geochronology", "Analytical Chemistry", "Zircon Dating"],
+          "email": "dkim@university.edu"
+        },
+        {
+          "name": "Lisa Wang",
+          "title": "Undergraduate Researcher",
+          "affiliation": "Department of Earth Sciences",
+          "image": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "bio": "Lisa is working on data analysis and visualization for seismic tomography studies.",
+          "expertise": ["Data Analysis", "Seismology", "Visualization"],
+          "email": "lwang@university.edu"
+        }
+      ],
+      "researchGroupsTitle": "Research Groups",
+      "researchGroupsSubtitle": "Our interdisciplinary approach brings together expertise from multiple fields",
+      "researchGroups": [
+        {
+          "title": "Geophysics Group",
+          "description": "Investigating Earth's deep structure and dynamics",
+          "members": 3,
+          "icon": "🌍"
+        },
+        {
+          "title": "Geochemistry Lab",
+          "description": "Analyzing isotopic signatures and chemical processes",
+          "members": 2,
+          "icon": "⚗️"
+        },
+        {
+          "title": "Petrology Team",
+          "description": "Studying magmatic processes and rock formation",
+          "members": 2,
+          "icon": "🔥"
+        },
+        {
+          "title": "Geochronology Unit",
+          "description": "Dating geological events and processes",
+          "members": 2,
+          "icon": "⏰"
+        }
+      ],
+      "collaborationsTitle": "Collaborations",
+      "collaborationsSubtitle": "We work with leading institutions and researchers worldwide",
+      "collaborations": [
+        {
+          "institution": "Stanford University",
+          "department": "Department of Geophysics",
+          "focus": "Seismic tomography and mantle structure"
+        },
+        {
+          "institution": "MIT",
+          "department": "Department of Earth Sciences",
+          "focus": "Computational geodynamics"
+        },
+        {
+          "institution": "Caltech",
+          "department": "Division of Geological Sciences",
+          "focus": "Isotope geochemistry"
+        },
+        {
+          "institution": "University of Cambridge",
+          "department": "Department of Earth Sciences",
+          "focus": "Early Earth evolution"
+        },
+        {
+          "institution": "ETH Zurich",
+          "department": "Institute of Geochemistry",
+          "focus": "Experimental petrology"
+        },
+        {
+          "institution": "University of Tokyo",
+          "department": "Earthquake Research Institute",
+          "focus": "Deep Earth structure"
+        }
+      ],
+       "ctaTitle": "Join Our Team",
+       "ctaSubtitle": "We're always looking for passionate researchers to join our interdisciplinary team."
+     },
+     "outreach": {
+      "title": "Outreach & Education",
+      "content": "We are committed to sharing our research with the broader community through educational programs, public lectures, and collaborative initiatives.",
+      "programsTitle": "Our Programs",
+      "programsSubtitle": "Engaging diverse audiences through innovative educational initiatives",
+      "programs": [
+        {
+          "title": "Earth Science for Schools",
+          "description": "Interactive workshops and presentations for K-12 students to explore Earth's mysteries through hands-on activities and demonstrations.",
+          "audience": "K-12 Students",
+          "frequency": "Monthly",
+          "participants": "500+ students annually",
+          "image": "/images/outreach/school-program.jpg"
+        },
+        {
+          "title": "Community Science Talks",
+          "description": "Public lectures on current Earth science research, making complex topics accessible to general audiences.",
+          "audience": "General Public",
+          "frequency": "Quarterly",
+          "participants": "200+ attendees per event",
+          "image": "/images/outreach/public-talks.jpg"
+        },
+        {
+          "title": "Undergraduate Research Program",
+          "description": "Summer research opportunities for undergraduate students to participate in cutting-edge Earth science research.",
+          "audience": "Undergraduate Students",
+          "frequency": "Annual",
+          "participants": "15-20 students per year",
+          "image": "/images/outreach/undergrad-program.jpg"
+        },
+        {
+          "title": "Science Museum Partnerships",
+          "description": "Collaborative exhibits and educational programs with local science museums to showcase Earth science discoveries.",
+          "audience": "Museum Visitors",
+          "frequency": "Ongoing",
+          "participants": "1000+ visitors monthly",
+          "image": "https://images.unsplash.com/photo-1614313913007-2b4ae8ce32d6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "impactTitle": "Our Impact",
+      "impactSubtitle": "Measuring the reach and effectiveness of our outreach efforts",
+      "impactStats": [
+        {
+          "number": "2,500+",
+          "label": "Students Reached",
+          "description": "K-12 and undergraduate students engaged annually",
+          "icon": "🎓"
+        },
+        {
+          "number": "50+",
+          "label": "Public Events",
+          "description": "Talks, workshops, and presentations per year",
+          "icon": "🎤"
+        },
+        {
+          "number": "15+",
+          "label": "Media Features",
+          "description": "Articles, interviews, and documentaries",
+          "icon": "📺"
+        },
+        {
+          "number": "10+",
+          "label": "Partnerships",
+          "description": "Collaborations with schools and museums",
+          "icon": "🤝"
+        }
+      ],
+      "mediaTitle": "Media & Press",
+      "mediaSubtitle": "Our research featured in leading science media outlets",
+      "mediaFeatures": [
+        {
+          "title": "Understanding Earth's Deep Mysteries",
+          "outlet": "National Geographic",
+          "type": "Magazine Article",
+          "date": "March 2024",
+          "description": "Feature article on our research into Large Low Shear Velocity Provinces and their origins."
+        },
+        {
+          "title": "The Science of Giant Impacts",
+          "outlet": "Science Friday (NPR)",
+          "type": "Radio Interview",
+          "date": "February 2024",
+          "description": "Discussion of how giant impacts shaped early Earth and created lasting geological features."
+        },
+        {
+          "title": "Subduction Zones Explained",
+          "outlet": "YouTube Science Channel",
+          "type": "Educational Video",
+          "date": "January 2024",
+          "description": "Animated explanation of subduction initiation processes for general audiences."
+        },
+        {
+          "title": "Early Earth Evolution",
+          "outlet": "Scientific American",
+          "type": "Opinion Piece",
+          "date": "December 2023",
+          "description": "Perspective on new insights into Earth's first billion years of evolution."
+        }
+      ],
+      "resourcesTitle": "Educational Resources",
+      "resourcesSubtitle": "Free resources for educators and students",
+      "resources": [
+        {
+          "title": "Lesson Plans",
+          "description": "Comprehensive lesson plans for teaching Earth science concepts",
+          "items": "25+ lessons",
+          "icon": "📚"
+        },
+        {
+          "title": "Interactive Simulations",
+          "description": "Web-based tools for visualizing geological processes",
+          "items": "10+ simulations",
+          "icon": "💻"
+        },
+        {
+          "title": "Video Library",
+          "description": "Educational videos explaining complex Earth science topics",
+          "items": "50+ videos",
+          "icon": "🎬"
+        }
+      ],
+      "ctaTitle": "Get Involved",
+      "ctaSubtitle": "Join our outreach efforts or invite us to speak at your institution or event."
+    },
+    "news": {
+      "title": "Latest News & Updates",
+      "content": "Stay updated with our latest research findings, publications, and team achievements.",
+      "newsItems": [
+        {
+          "id": 1,
+          "title": "New Research Published in Nature Geoscience",
+          "category": "Publication",
+          "date": "March 15, 2024",
+          "excerpt": "Our latest study on the giant impact origin of Large Low Shear Velocity Provinces has been published in Nature Geoscience, providing new insights into Earth's early bombardment history.",
+          "content": "This groundbreaking research presents compelling evidence that the mysterious Large Low Shear Velocity Provinces (LLSVPs) in Earth's lower mantle may be remnants of ancient giant impact events. Using advanced numerical modeling and seismic analysis, our team has demonstrated how impact-generated material could have settled in the lower mantle and persisted for billions of years.",
+          "image": "/images/news/nature-publication.jpg",
+          "tags": ["Research", "Publication", "Geophysics"]
+        },
+        {
+          "id": 2,
+          "title": "Dr. Yuan Receives NSF CAREER Award",
+          "category": "Award",
+          "date": "February 28, 2024",
+          "excerpt": "Principal Investigator Dr. Qian Yuan has been awarded the prestigious NSF CAREER Award for research on early Earth evolution and mantle dynamics.",
+          "content": "The National Science Foundation CAREER Award recognizes early-career faculty who have the potential to serve as academic role models in research and education. This five-year, $500,000 award will support Dr. Yuan's research on understanding the formation and evolution of Earth's deep structure through the integration of geophysical modeling and geochemical analysis.",
+          "image": "https://images.unsplash.com/photo-1614313913007-2b4ae8ce32d6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "tags": ["Award", "Funding", "Recognition"]
+        },
+        {
+          "id": 3,
+          "title": "New Collaboration with Stanford University",
+          "category": "Collaboration",
+          "date": "February 10, 2024",
+          "excerpt": "We are excited to announce a new research collaboration with Stanford University's Department of Geophysics to study subduction initiation processes.",
+          "content": "This collaboration brings together expertise in computational geodynamics and seismic tomography to investigate the mechanisms that trigger the onset of subduction. The partnership will involve joint field work, shared computational resources, and student exchange programs.",
+          "image": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "tags": ["Collaboration", "Partnership", "Research"]
+        },
+        {
+          "id": 4,
+          "title": "Graduate Student Wins Best Poster Award",
+          "category": "Achievement",
+          "date": "January 22, 2024",
+          "excerpt": "PhD student Michael Chen received the Best Poster Award at the American Geophysical Union Fall Meeting for his work on mantle convection modeling.",
+          "content": "Michael's poster presentation on 'High-Resolution Modeling of Mantle Convection with Compositional Heterogeneities' impressed judges with its innovative approach to understanding how chemical variations in the mantle affect convection patterns. This research has important implications for understanding the long-term evolution of Earth's interior.",
+          "image": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "tags": ["Student", "Award", "Conference"]
+        },
+        {
+          "id": 5,
+          "title": "Featured in National Geographic Documentary",
+          "category": "Media",
+          "date": "January 8, 2024",
+          "excerpt": "Our research on Earth's early evolution will be featured in an upcoming National Geographic documentary about the formation of our planet.",
+          "content": "The documentary, titled 'Birth of a Planet,' will showcase our work on giant impacts and their role in shaping Earth's structure. Filming included interviews with team members and visualization of our computational models. The documentary is scheduled to air in spring 2024.",
+          "image": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "tags": ["Media", "Documentary", "Outreach"]
+        },
+        {
+          "id": 6,
+          "title": "New Equipment Enhances Laboratory Capabilities",
+          "category": "Equipment",
+          "date": "December 15, 2023",
+          "excerpt": "Installation of a new high-precision mass spectrometer significantly expands our analytical capabilities for isotopic studies.",
+          "content": "The new Thermo Fisher Scientific Neptune Plus MC-ICP-MS enables us to perform ultra-high precision isotopic measurements on small sample sizes. This capability is crucial for our research on early Earth materials and will support multiple ongoing projects in geochemistry and geochronology.",
+          "image": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "tags": ["Equipment", "Laboratory", "Technology"]
+        }
+      ],
+      "upcomingEventsTitle": "Upcoming Events",
+      "upcomingEvents": [
+        {
+          "title": "AGU Fall Meeting 2024",
+          "date": "December 9-13, 2024",
+          "location": "San Francisco, CA",
+          "description": "Team members will present latest research findings",
+          "type": "Conference"
+        },
+        {
+          "title": "Goldschmidt Conference 2024",
+          "date": "August 18-23, 2024",
+          "location": "Chicago, IL",
+          "description": "Geochemistry and isotope research presentations",
+          "type": "Conference"
+        },
+        {
+          "title": "Public Lecture: Earth's Hidden Mysteries",
+          "date": "May 15, 2024",
+          "location": "University Auditorium",
+          "description": "Dr. Yuan presents to the general public",
+          "type": "Outreach"
+        },
+        {
+          "title": "Summer Research Program",
+          "date": "June 1 - August 31, 2024",
+          "location": "Our Laboratory",
+          "description": "Undergraduate research opportunities",
+          "type": "Education"
+        }
+      ]
+    },
+    "join": {
+      "title": "Join Our Research Team",
+      "content": "We are always looking for passionate researchers to join our team and contribute to groundbreaking discoveries in Earth sciences.",
+      "whyJoinTitle": "Why Join Our Team?",
+      "whyJoinSubtitle": "Be part of cutting-edge research that advances our understanding of Earth's evolution",
+      "benefits": [
+        {
+          "icon": "🔬",
+          "title": "Cutting-Edge Research",
+          "description": "Work on fundamental questions about Earth's formation and evolution using state-of-the-art computational and analytical techniques."
+        },
+        {
+          "icon": "🤝",
+          "title": "Collaborative Environment",
+          "description": "Join a supportive team that values collaboration, mentorship, and interdisciplinary approaches to scientific problems."
+        },
+        {
+          "icon": "🌍",
+          "title": "Global Impact",
+          "description": "Contribute to research that advances our understanding of planetary processes and has implications for Earth's future."
+        },
+        {
+          "icon": "💻",
+          "title": "Advanced Resources",
+          "description": "Access to high-performance computing clusters, analytical facilities, and the latest research tools and software."
+        },
+        {
+          "icon": "📚",
+          "title": "Professional Development",
+          "description": "Opportunities for conference presentations, publications, and career advancement in academia or industry."
+        },
+        {
+          "icon": "🌟",
+          "title": "Mentorship",
+          "description": "Receive guidance from experienced researchers committed to your scientific and professional growth."
+        }
+      ],
+      "researchAreasTitle": "Research Areas",
+      "researchAreasSubtitle": "Explore the diverse research opportunities available in our group",
+      "researchAreas": [
+        {
+          "title": "Computational Geodynamics",
+          "description": "Numerical modeling of mantle convection, plate tectonics, and planetary evolution",
+          "skills": ["Programming", "Numerical Methods", "High-Performance Computing"]
+        },
+        {
+          "title": "Isotope Geochemistry",
+          "description": "Chemical analysis of rocks and minerals to understand Earth's evolution",
+          "skills": ["Mass Spectrometry", "Sample Preparation", "Data Analysis"]
+        },
+        {
+          "title": "Seismic Tomography",
+          "description": "Imaging Earth's interior structure using seismic waves",
+          "skills": ["Signal Processing", "Inverse Theory", "Data Visualization"]
+        },
+        {
+          "title": "Experimental Petrology",
+          "description": "High-pressure experiments to understand deep Earth processes",
+          "skills": ["Laboratory Techniques", "Microscopy", "Mineral Physics"]
+        }
+      ],
+      "positionsTitle": "Open Positions",
+      "positionsSubtitle": "Current opportunities to join our research team",
+      "positions": [
+        {
+          "id": 1,
+          "title": "PhD Student in Geophysics",
+          "type": "Graduate Student",
+          "department": "Earth Sciences",
+          "deadline": "January 15, 2025",
+          "description": "We are seeking a motivated PhD student to work on computational modeling of mantle convection and early Earth evolution. The successful candidate will develop numerical models to understand the formation and evolution of Large Low Shear Velocity Provinces (LLSVPs).",
+          "requirements": [
+            "Bachelor's degree in Geophysics, Physics, Mathematics, or related field",
+            "Strong background in mathematics and physics",
+            "Programming experience (Python, MATLAB, or similar)",
+            "Interest in computational geodynamics",
+            "Excellent written and verbal communication skills"
+          ],
+          "benefits": [
+            "Full funding including tuition and stipend",
+            "Access to high-performance computing resources",
+            "Opportunities for conference presentations",
+            "Collaborative research environment",
+            "Professional development support"
+          ],
+          "status": "Open"
+        },
+        {
+          "id": 2,
+          "title": "Postdoctoral Researcher in Geochemistry",
+          "type": "Postdoc",
+          "department": "Earth Sciences",
+          "deadline": "Rolling Basis",
+          "description": "We invite applications for a postdoctoral position focused on isotope geochemistry and early Earth processes. The researcher will work on understanding the chemical evolution of Earth's mantle through isotopic analysis of ancient rocks and minerals.",
+          "requirements": [
+            "PhD in Geochemistry, Earth Sciences, or related field",
+            "Experience with mass spectrometry and isotope analysis",
+            "Knowledge of early Earth processes",
+            "Strong publication record",
+            "Ability to work independently and collaboratively"
+          ],
+          "benefits": [
+            "Competitive salary and benefits",
+            "Research funds for travel and equipment",
+            "Access to state-of-the-art analytical facilities",
+            "Mentorship and career development",
+            "Collaborative research opportunities"
+          ],
+          "status": "Open"
+        },
+        {
+          "id": 3,
+          "title": "Undergraduate Research Assistant",
+          "type": "Undergraduate",
+          "department": "Earth Sciences",
+          "deadline": "Ongoing",
+          "description": "Undergraduate students interested in Earth sciences research are encouraged to apply for research assistant positions. Students will gain hands-on experience in laboratory techniques, data analysis, and scientific research.",
+          "requirements": [
+            "Currently enrolled undergraduate student",
+            "Major in Earth Sciences, Physics, Chemistry, or related field",
+            "Minimum GPA of 3.0",
+            "Strong interest in research",
+            "Commitment of at least one semester"
+          ],
+          "benefits": [
+            "Research experience and training",
+            "Potential for course credit or paid position",
+            "Mentorship from graduate students and faculty",
+            "Opportunity to contribute to publications",
+            "Preparation for graduate school"
+          ],
+          "status": "Open"
+        }
+      ],
+      "applicationProcessTitle": "Application Process",
+      "applicationProcessSubtitle": "Simple steps to join our research team",
+      "applicationProcess": [
+        {
+          "step": 1,
+          "title": "Initial Contact",
+          "description": "Send an email expressing your interest with CV and research statement"
+        },
+        {
+          "step": 2,
+          "title": "Application Review",
+          "description": "We review your background and research interests for potential fit"
+        },
+        {
+          "step": 3,
+          "title": "Interview",
+          "description": "Video call to discuss research goals and answer questions"
+        },
+        {
+          "step": 4,
+          "title": "Decision",
+          "description": "We notify you of our decision and next steps"
+        }
+      ],
+      "contactTitle": "Ready to Join Us?",
+    "contactSubtitle": "We're always interested in hearing from motivated individuals who share our passion for understanding Earth's evolution.",
+    "opportunities": [
+      {
+        "position": "PhD Students",
+        "description": "We are seeking PhD students with strong backgrounds in geophysics, geochemistry, or related fields."
+      },
+      {
+        "position": "Postdoctoral Researchers",
+        "description": "Postdoc positions are available for researchers with expertise in numerical modeling or analytical geochemistry."
+      }
+    ],
+    "contact": {
+      "email": "qian.yuan@university.edu",
+      "office": "Department of Earth Sciences, Room 123",
+      "phone": "+1 (555) 123-4567"
+    }
+  }
+ },
+ "footer": {
+   "researchAreas": [
+     "Geophysics",
+     "Geochemistry",
+     "Igneous Petrology",
+     "Geochronology"
+   ]
+ }
+}
