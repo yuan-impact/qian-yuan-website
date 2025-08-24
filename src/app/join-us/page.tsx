@@ -178,9 +178,12 @@ export default function JoinUs() {
                   </div>
 
                   <div className="mt-8 pt-6 border-t border-slate-700">
-                    <button className="btn-primary px-6 py-3 rounded-lg font-semibold text-white hover:shadow-lg transition-all duration-300">
-                      Apply Now
-                    </button>
+                    <a
+                      href="mailto:qian.yuan@university.edu?subject=Application for Graduate Student Position"
+                      className="btn-primary px-6 py-3 rounded-lg font-semibold text-white hover:shadow-lg transition-all duration-300 inline-block"
+                    >
+                      Send Email
+                    </a>
                   </div>
                 </div>
               </div>
