@@ -377,28 +377,7 @@
           "description": "Perspective on new insights into Earth's first billion years of evolution."
         }
       ],
-      "resourcesTitle": "Educational Resources",
-      "resourcesSubtitle": "Free resources for educators and students",
-      "resources": [
-        {
-          "title": "Lesson Plans",
-          "description": "Comprehensive lesson plans for teaching Earth science concepts",
-          "items": "25+ lessons",
-          "icon": "📚"
-        },
-        {
-          "title": "Interactive Simulations",
-          "description": "Web-based tools for visualizing geological processes",
-          "items": "10+ simulations",
-          "icon": "💻"
-        },
-        {
-          "title": "Video Library",
-          "description": "Educational videos explaining complex Earth science topics",
-          "items": "50+ videos",
-          "icon": "🎬"
-        }
-      ],
+
       "ctaTitle": "Get Involved",
       "ctaSubtitle": "Join our outreach efforts or invite us to speak at your institution or event."
     },
