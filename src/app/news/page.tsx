@@ -68,15 +68,16 @@ export default function News() {
                   </p>
                   
                   {/* Key Research Findings */}
-                  <div className="mt-6 p-4 bg-slate-700/30 rounded-lg border-l-4 border-blue-500">
-                    <h4 className="text-white font-semibold mb-3">Key Research Findings</h4>
-                    <div className="text-gray-300 text-sm space-y-2">
-                      <p>• Numerical models demonstrate how giant impact events during Earth's formation could have created persistent heterogeneities in the lower mantle</p>
-                      <p>• Seismic tomography data shows structural similarities between observed LLSVPs and our impact-generated models</p>
-                      <p>• New insights into the thermal and chemical evolution of Earth's deep interior over geological timescales</p>
-                      <p>• Implications for understanding early Earth bombardment history and planetary formation processes</p>
+                  {newsContent.newsItems[0].keyFindings && (
+                    <div className="mt-6 p-4 bg-slate-700/30 rounded-lg border-l-4 border-blue-500">
+                      <h4 className="text-white font-semibold mb-3">Key Research Findings</h4>
+                      <div className="text-gray-300 text-sm space-y-2">
+                        {newsContent.newsItems[0].keyFindings.map((finding: string, index: number) => (
+                          <p key={index}>• {finding}</p>
+                        ))}
+                      </div>
                     </div>
-                  </div>
+                  )}
                 </div>
                 
                 <div className="mt-6">
@@ -127,6 +128,18 @@ export default function News() {
                       <p className="text-gray-300 leading-relaxed mb-6">
                         {item.content}
                       </p>
+                      
+                      {/* Key Research Findings */}
+                      {item.keyFindings && (
+                        <div className="mt-6 p-4 bg-slate-700/30 rounded-lg border-l-4 border-blue-500">
+                          <h4 className="text-white font-semibold mb-3">Key Research Findings</h4>
+                          <div className="text-gray-300 text-sm space-y-2">
+                            {item.keyFindings.map((finding: string, index: number) => (
+                              <p key={index}>• {finding}</p>
+                            ))}
+                          </div>
+                        </div>
+                      )}
                     </div>
                     
                     <div>
