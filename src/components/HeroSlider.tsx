@@ -1,12 +1,17 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import Image from 'next/image';
 import content from '@/data/content.json';
+import { useAnimations } from '@/hooks/useAnimations';
 
 const HeroSlider = () => {
   const [currentSlide, setCurrentSlide] = useState(0);
   const slides = content.hero.slides;
+  const { fadeInUp, fadeInLeft, scaleIn } = useAnimations();
+  const titleRef = useRef<HTMLHeadingElement>(null);
+  const subtitleRef = useRef<HTMLParagraphElement>(null);
+  const buttonsRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     const timer = setInterval(() => {
@@ -15,6 +20,19 @@ const HeroSlider = () => {
 
     return () => clearInterval(timer);
   }, [slides.length]);
+
+  useEffect(() => {
+    // Animate content when slide changes
+    if (titleRef.current) {
+      fadeInUp(titleRef.current, 200);
+    }
+    if (subtitleRef.current) {
+      fadeInLeft(subtitleRef.current, 400);
+    }
+    if (buttonsRef.current) {
+      scaleIn(buttonsRef.current, 600);
+    }
+  }, [currentSlide, fadeInUp, fadeInLeft, scaleIn]);
 
   const goToSlide = (index: number) => {
     setCurrentSlide(index);
@@ -58,18 +76,18 @@ const HeroSlider = () => {
       <div className="relative z-10 h-full flex items-center">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
           <div className="max-w-4xl">
-            <div className="animate-fade-in-up">
-              <h1 className="text-5xl md:text-7xl font-bold font-display mb-6 leading-tight">
+            <div>
+              <h1 ref={titleRef} className="text-5xl md:text-7xl font-bold font-display mb-6 leading-tight opacity-0">
                 <span className="text-white">{slides[currentSlide].title.split(' ').slice(0, -2).join(' ')}</span>
                 <br />
-                <span className="text-blue-400">{slides[currentSlide].title.split(' ').slice(-2).join(' ')}</span>
+                <span className="text-blue-400 gradient-text">{slides[currentSlide].title.split(' ').slice(-2).join(' ')}</span>
               </h1>
               
-              <p className="text-xl md:text-2xl text-gray-300 mb-8 leading-relaxed max-w-3xl">
+              <p ref={subtitleRef} className="text-xl md:text-2xl text-gray-300 mb-8 leading-relaxed max-w-3xl opacity-0">
                 {slides[currentSlide].subtitle}
               </p>
               
-              <div className="flex flex-col sm:flex-row gap-4">
+              <div ref={buttonsRef} className="flex flex-col sm:flex-row gap-4 opacity-0">
                 <button className="btn-primary px-8 py-4 rounded-lg font-semibold text-white hover:shadow-lg transition-all duration-300 cursor-pointer">
                   Explore Research
                 </button>

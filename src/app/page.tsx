@@ -1,9 +1,41 @@
+'use client';
+
 import HeroSlider from '@/components/HeroSlider';
 import Link from 'next/link';
 import content from '@/data/content.json';
+import { useScrollAnimations } from '@/hooks/useAnimations';
+import { useEffect, useRef } from 'react';
 
 export default function Home() {
   const homeContent = content.pages.home;
+  const { observeElement } = useScrollAnimations();
+  const introRef = useRef<HTMLDivElement>(null);
+  const sectionsRef = useRef<HTMLDivElement>(null);
+  const areasRef = useRef<HTMLDivElement>(null);
+  const ctaRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    if (introRef.current) {
+      introRef.current.dataset.animation = 'fadeInUp';
+      introRef.current.dataset.delay = '200';
+      observeElement(introRef.current);
+    }
+    if (sectionsRef.current) {
+      sectionsRef.current.dataset.animation = 'fadeInLeft';
+      sectionsRef.current.dataset.delay = '400';
+      observeElement(sectionsRef.current);
+    }
+    if (areasRef.current) {
+      areasRef.current.dataset.animation = 'fadeInUp';
+      areasRef.current.dataset.delay = '600';
+      observeElement(areasRef.current);
+    }
+    if (ctaRef.current) {
+      ctaRef.current.dataset.animation = 'scaleIn';
+      ctaRef.current.dataset.delay = '800';
+      observeElement(ctaRef.current);
+    }
+  }, [observeElement]);
 
   return (
     <div className="pt-16"> {/* Account for fixed navigation */}
@@ -15,7 +47,7 @@ export default function Home() {
         {/* Introduction Section */}
         <section className="section-padding">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div className="max-w-4xl mx-auto text-center">
+            <div ref={introRef} className="max-w-4xl mx-auto text-center opacity-0">
               <h2 className="text-4xl md:text-5xl font-bold font-display mb-8 text-white">
                 {homeContent.title}
               </h2>
@@ -29,7 +61,7 @@ export default function Home() {
         {/* Research Focus Sections */}
         <section className="section-padding bg-slate-800/50">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+            <div ref={sectionsRef} className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center opacity-0">
               {homeContent.sections.map((section, index) => (
                 <div key={index} className={`animate-fade-in-up ${index % 2 === 1 ? 'lg:order-first' : ''}`}>
                   <div className="bg-slate-800 p-8 rounded-2xl border border-slate-700 hover:border-blue-500/50 transition-all duration-300">
@@ -58,7 +90,7 @@ export default function Home() {
         {/* Research Areas Grid */}
         <section className="section-padding">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div className="text-center mb-16">
+            <div ref={areasRef} className="text-center mb-16 opacity-0">
               <h2 className="text-3xl md:text-4xl font-bold font-display mb-6 text-white">
                 {homeContent.researchAreasTitle}
               </h2>
@@ -87,7 +119,7 @@ export default function Home() {
 
         {/* Call to Action */}
         <section className="section-padding bg-gradient-to-r from-blue-900/20 to-cyan-900/20">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+          <div ref={ctaRef} className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center opacity-0">
             <h2 className="text-3xl md:text-4xl font-bold font-display mb-6 text-white">
               {homeContent.ctaTitle}
             </h2>

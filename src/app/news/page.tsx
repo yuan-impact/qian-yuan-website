@@ -1,7 +1,33 @@
+'use client';
+
 import content from '@/data/content.json';
+import { useScrollAnimations } from '@/hooks/useAnimations';
+import { useEffect, useRef } from 'react';
 
 export default function News() {
   const newsContent = content.pages.news;
+  const { observeElement } = useScrollAnimations();
+  const heroRef = useRef<HTMLDivElement>(null);
+  const featuredRef = useRef<HTMLDivElement>(null);
+  const gridRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    if (heroRef.current) {
+      heroRef.current.dataset.animation = 'fadeInUp';
+      heroRef.current.dataset.delay = '200';
+      observeElement(heroRef.current);
+    }
+    if (featuredRef.current) {
+      featuredRef.current.dataset.animation = 'fadeInLeft';
+      featuredRef.current.dataset.delay = '400';
+      observeElement(featuredRef.current);
+    }
+    if (gridRef.current) {
+      gridRef.current.dataset.animation = 'fadeInUp';
+      gridRef.current.dataset.delay = '600';
+      observeElement(gridRef.current);
+    }
+  }, [observeElement]);
 
 
 
@@ -10,7 +36,7 @@ export default function News() {
       {/* Hero Section */}
       <section className="section-padding bg-gradient-to-br from-blue-900/30 to-cyan-900/30">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="max-w-4xl mx-auto text-center">
+          <div ref={heroRef} className="max-w-4xl mx-auto text-center opacity-0">
             <h1 className="text-5xl md:text-6xl font-bold font-display mb-8 text-white">
               {newsContent.title}
             </h1>
@@ -24,7 +50,7 @@ export default function News() {
       {/* Featured News */}
       <section className="section-padding">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center mb-16">
+          <div ref={featuredRef} className="text-center mb-16 opacity-0">
             <h2 className="text-3xl md:text-4xl font-bold font-display mb-6 text-white">
               Latest News
             </h2>
@@ -94,7 +120,7 @@ export default function News() {
           </div>
 
           {/* News Cards - Wide Layout */}
-          <div className="space-y-8">
+          <div ref={gridRef} className="space-y-8 opacity-0">
             {newsContent.newsItems.slice(1).map((item: any) => (
               <div key={item.id} className="bg-slate-800 rounded-2xl border border-slate-700 overflow-hidden hover:border-blue-500/50 transition-all duration-300 group">
                 <div className="grid grid-cols-1 lg:grid-cols-3">

@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Inter, Space_Grotesk } from "next/font/google";
 import "./globals.css";
+import "@/styles/animations.css";
 import Navigation from "@/components/Navigation";
 import Footer from "@/components/Footer";
 import SkipLink from "@/components/SkipLink";

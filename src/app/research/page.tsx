@@ -1,16 +1,42 @@
+'use client';
+
 import Link from 'next/link';
 import content from '@/data/content.json';
 import researchProjects from '@/data/research-projects.json';
+import { useScrollAnimations } from '@/hooks/useAnimations';
+import { useEffect, useRef } from 'react';
 
 export default function Research() {
   const researchContent = content.pages.research;
+  const { observeElement } = useScrollAnimations();
+  const heroRef = useRef<HTMLDivElement>(null);
+  const areasRef = useRef<HTMLDivElement>(null);
+  const gridRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    if (heroRef.current) {
+      heroRef.current.dataset.animation = 'fadeInUp';
+      heroRef.current.dataset.delay = '200';
+      observeElement(heroRef.current);
+    }
+    if (areasRef.current) {
+      areasRef.current.dataset.animation = 'fadeInUp';
+      areasRef.current.dataset.delay = '400';
+      observeElement(areasRef.current);
+    }
+    if (gridRef.current) {
+      gridRef.current.dataset.animation = 'fadeInUp';
+      gridRef.current.dataset.delay = '600';
+      observeElement(gridRef.current);
+    }
+  }, [observeElement]);
 
   return (
     <div className="pt-16 bg-slate-900 min-h-screen">
       {/* Hero Section */}
       <section className="section-padding bg-gradient-to-br from-blue-900/30 to-cyan-900/30">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="max-w-4xl mx-auto text-center">
+          <div ref={heroRef} className="max-w-4xl mx-auto text-center opacity-0">
             <h1 className="text-5xl md:text-6xl font-bold font-display mb-8 text-white">
               {researchContent.title}
             </h1>
@@ -24,7 +50,7 @@ export default function Research() {
       {/* Research Areas Grid */}
       <section className="section-padding">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center mb-16">
+          <div ref={areasRef} className="text-center mb-16 opacity-0">
             <h2 className="text-3xl md:text-4xl font-bold font-display mb-6 text-white">
               {researchContent.researchAreasTitle}
             </h2>
@@ -33,7 +59,7 @@ export default function Research() {
             </p>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+          <div ref={gridRef} className="grid grid-cols-1 md:grid-cols-2 gap-8 opacity-0">
             {Object.entries(researchProjects).map(([key, project]) => {
               const slug = key.toLowerCase().replace(/[^a-z0-9]+/g, '-');
               const category = project.title.split(':')[0].trim();
