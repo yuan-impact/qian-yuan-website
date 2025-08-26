@@ -143,7 +143,7 @@ export default function News() {
                     </div>
                     
                     <div>
-                      <div className="flex flex-wrap gap-2 mb-6">
+                      <div className="flex flex-wrap gap-2 mb-6 mt-6">
                         {item.tags.map((tag: string, index: number) => (
                           <span key={index} className="px-3 py-1 bg-slate-700 text-gray-300 text-sm rounded-full">
                             {tag}
