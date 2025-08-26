@@ -4,6 +4,10 @@
     "subtitle": "Academic Researcher",
     "description": "Research in Geophysics, Geochemistry, Igneous Petrology, and Geochronology"
   },
+  "logo": {
+    "primary": "DR. QIAN",
+    "secondary": "YUAN"
+  },
   "navigation": [
     { "name": "Home", "path": "/", "id": "home" },
     { 

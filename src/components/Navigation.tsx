@@ -22,8 +22,8 @@ const Navigation = () => {
           {/* Logo */}
           <Link href="/" className="flex items-center space-x-2">
             <div className="text-xl font-bold font-space-grotesk">
-              <span className="text-blue-400">DR. QIAN</span>
-              <span className="text-white ml-2">YUAN</span>
+              <span className="text-blue-400">{content.logo.primary}</span>
+              <span className="text-white ml-2">{content.logo.secondary}</span>
             </div>
           </Link>
 
