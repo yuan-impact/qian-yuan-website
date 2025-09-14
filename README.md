@@ -1,4 +1,4 @@
-# Dr. Qian Yuan - Academic Research Website
+# Dr. Qian Yuan - Impact Lab
 
 A modern, responsive academic website built with Next.js, showcasing research in Earth Sciences, Geophysics, and Planetary Science. The website features a dark theme inspired by formingworlds.space with comprehensive accessibility features and performance optimizations.
 
