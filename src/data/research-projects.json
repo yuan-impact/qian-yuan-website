@@ -1,8 +1,8 @@
 {
   "giant-impact-llsvps": {
-    "title": "GEOPHYSICS: GIANT IMPACT ORIGIN OF LLSVPS",
+    "title": "PLANETARY: GIANT IMPACT ORIGIN OF LLSVPS",
     "subtitle": "Understanding Large Low Shear Velocity Provinces through Giant Impact Theory",
-    "content": "Large Low Shear Velocity Provinces (LLSVPs) are massive structures in Earth's lower mantle that have puzzled scientists for decades. Our research investigates the hypothesis that these features originated from ancient giant impact events during Earth's early formation.",
+    "content": "Large Low Shear Velocity Provinces (LLSVPs) are massive structures in Earth's lower mantle that have puzzled scientists for decades. Our research investigates the hypothesis that these features originated from the ancient giant impact that formed our Moon.",
     "sections": [
       {
         "title": "Research Overview",
@@ -58,9 +58,9 @@
     ]
   },
   "llsvp-ulvz": {
-    "title": "GEOPHYSICS: Deep Mantle Heterogeneities",
-    "subtitle": "Structural Variations in Large Low Shear Velocity Provinces",
-    "content": "The structure, morphology, and evolution of deep mantle heterogeneities hold the key to understanding the dynamic processes operating in Earth’s interior, processes that influence the geodynamo, the supercontinent cycle, and supervolcano eruptions.",
+    "title": "PLANETARY: Mars Dynamics",
+    "subtitle": "Co-evolition of Martian interior and surface geological features",
+    "content": "The internal structure of Mars, including its core, mantle, and crust, holds the key to explaining the planet’s hemispheric dichotomy and its long-term thermal evolution. Insights from marsquakes recorded by NASA’s InSight mission are reshaping our understanding of how these deep processes connect to surface geology and the planet’s divergent evolutionary path compared to Earth.",
     "sections": [
       {
         "title": "Morphological Analysis",
@@ -77,9 +77,9 @@
     ]
   },
   "lithium-isotope-humite": {
-    "title": "GEOCHEMISTRY: Tectonic Magmatism",
-    "subtitle": "Lithium Isotopic Signatures in Humite Group Minerals",
-    "content": "Tectonic magmatism is a primary window into mantle–crust interactions, recording how melts ascend, react, and reshape the lithosphere. The differentiation of these magmas generates the chemical diversity of Earth’s crust and preserves vital clues about mantle source processes and tectonic environments.",
+    "title": "GEOPHYSICS: Mantle Heterogeneities",
+    "subtitle": "Dynamics of Large Low Shear Velocity Provinces and Ultra-low Velocity Provinces",
+    "content": "The structure, morphology, and evolution of deep mantle heterogeneities hold the key to understanding the dynamic processes operating in Earth’s interior, processes that influence the geodynamo, the supercontinent cycle, and supervolcano eruptions",
     "sections": [
       {
         "title": "Analytical Techniques",
@@ -96,9 +96,9 @@
     ]
   },
   "mush-emplacement-bushveld": {
-    "title": "IGNEOUS PETROLOGY: MUSH EMPLACEMENT IN BUSHVELD",
+    "title": "GEOCHEMISTRY: Tectonic Magmatism",
     "subtitle": "Magmatic Processes in the Bushveld Complex",
-    "content": "The Bushveld Complex represents one of the world's largest layered intrusions. Our research investigates the emplacement mechanisms and evolution of crystal mushes in this iconic igneous system.",
+    "content": "Tectonic magmatism is a primary window into mantle–crust interactions, recording how melts ascend, react, and reshape the lithosphere. The differentiation of these magmas generates the chemical diversity of Earth’s crust and preserves vital clues about mantle source processes and tectonic environments.",
     "sections": [
       {
         "title": "Petrological Analysis",
@@ -115,9 +115,9 @@
     ]
   },
   "zircon-coronas-fe-ti-oxides": {
-    "title": "GEOCHRONOLOGY: ZIRCON CORONAS AROUND FE-TI OXIDES",
+    "title": "PETROLOGY: Ore-forming Magma Chamber Processes",
     "subtitle": "Temporal Constraints from Zircon Corona Textures",
-    "content": "Zircon coronas around Fe-Ti oxide minerals provide unique geochronological constraints on metamorphic and igneous processes. Our research develops new approaches to date these complex textural relationships.",
+    "content": "Understanding their origin, the physical and chemical processes within magma chambers, and their tectonic context not only advances fundamental igneous petrology but also informs the exploration of critical mineral resources essential for modern technology and the global energy transition.",
     "sections": [
       {
         "title": "Geochronological Methods",
