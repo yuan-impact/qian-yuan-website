@@ -17,7 +17,7 @@
       "children": [
         { "name": "Moon-forming Giant Impact", "path": "/research/giant-impact", "id": "giant-impact" },
         { "name": "AI-powered Geodynamics", "path": "/research/ai-geodynamics", "id": "ai-geodynamics" },
-        { "name": "Mars Dynamics", "path": "/research/Mars", "id": "Mars" },
+        { "name": "Mars Dynamics", "path": "/research/mars", "id": "mars" },
         { "name": "Mantle Heterogeneities", "path": "/research/llsvp-ulvz", "id": "interior" },
         { "name": "Tectonic Magmatism", "path": "/research/tectonic-magmatism", "id": "tectonics" },
         { "name": "Ore-forming Magma Chamber Processes", "path": "/research/magmatic-process", "id": "magma" }
