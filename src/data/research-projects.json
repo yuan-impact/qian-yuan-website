@@ -1,36 +1,36 @@
 {
   "giant-impact-llsvps": {
-    "title": "PLANETARY: GIANT IMPACT ORIGIN OF LLSVPS",
-    "subtitle": "Understanding Large Low Shear Velocity Provinces through Giant Impact Theory",
-    "content": "Large Low Shear Velocity Provinces (LLSVPs) are massive structures in Earth's lower mantle that have puzzled scientists for decades. Our research investigates the hypothesis that these features originated from the ancient giant impact that formed our Moon.",
+    "title": "PLANETARY: Moon-forming Giant Impact",
+    "subtitle": "Understanding the evidence and long-term consequences of the last major accretion of Earth.",
+    "content": "Earth’s evolution began 4.5 billion years ago with the Moon-forming impact between Earth and the hypothesized planet Theia. We explore whether continental-scale seismic anomalies are remnants of Theia’s mantle and how plumes from them may have triggered the earliest subduction.",
     "sections": [
       {
-        "title": "Research Overview",
-        "content": "We employ numerical modeling and seismic analysis to understand how giant impacts during Earth's accretion could have created the observed LLSVP structures. Our models suggest that impact-generated material could have settled in the lower mantle and persisted for billions of years."
+        "title": "Research Questions",
+        "content": "Where is the missing impactor, Theia? What were the long-term tectonic consequences of the Giant Impact? Why is Earth unique in sustaining plate tectonics?"
       },
       {
         "title": "Methodology",
-        "content": "Our approach combines high-resolution numerical simulations of giant impacts with seismic tomography data analysis. We use advanced computational techniques to model the long-term evolution of impact-generated heterogeneities in the mantle."
+        "content": "We pioneered the integration of short-timescale (hour-scale) Moon-forming impact simulations with long-timescale (billion-year) mantle convection models, linking them through thermodynamic and seismic constraints. This framework enables us to connect energetic early impacts with the long-term evolution of Earth’s mantle. In addition, we employ fully 3D thermo-elasto-mechanical models to simulate deep mantle structure, plume generation, and plume-driven subduction in a self-consistent way."
       },
       {
         "title": "Key Findings",
-        "content": "Our research provides compelling evidence that LLSVPs could indeed be remnants of ancient giant impacts, offering new insights into Earth's early bombardment history and mantle evolution."
+        "content": "1. Our canonical Moon-forming giant impact simulations show that the collision would have melted the upper half of Earth’s mantle. 2. Mantle convection models suggest that Theia’s material sank into the lower mantle, forming the Large Low Shear Velocity Provinces (LLSVPs) over 4.5 billion years. 3. Plumes from this reservoir may have triggered the earliest subduction, offering new clues to the Moon’s origin, mantle heterogeneities, and plate tectonics."
       }
     ],
     "publications": [
       {
-        "title": "Giant Impact Origin of LLSVPs: Evidence from Numerical Modeling",
+        "title": "Moon-forming impactor as a source of Earth’s basal mantle anomalies",
         "authors": "Yuan, Q., et al.",
-        "journal": "Nature Geoscience",
-        "year": "2024",
-        "doi": "10.1038/s41561-024-xxxxx"
+        "journal": "Nature",
+        "year": "2023 (Cover Article)",
+        "doi": "doi.org/10.1038/s41586-023-06589-1"
       }
     ],
     "images": [
       {
         "src": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
         "alt": "Numerical model showing LLSVP formation from giant impact",
-        "caption": "3D visualization of LLSVP formation following a giant impact event"
+        "caption": "The cover shows an artist’s impression of the collision between the protoplanet Theia and proto-Earth about 4.5 billion years ago."
       }
     ]
   },
