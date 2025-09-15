@@ -2,7 +2,7 @@
   "site": {
     "title": "Dr. Qian Yuan ",
     "subtitle": "Academic Researcher",
-    "description": "Research in Computational geodynamics, Geophysics, Planetary science, and Tectonic magmatism"
+    "description": "Research in AI-powered geodynamics, Geophysics, Planetary science, and Tectonic magmatism"
   },
   "logo": {
     "primary": "Dr. QIAN",
@@ -698,16 +698,16 @@
  "footer": {
    "researchAreas": [
      {
-       "name": "Giant Impact LLSVPs",
+       "name": "Giant Impact",
        "slug": "giant-impact-llsvps"
      },
      {
-       "name": "Subduction Initiation",
-       "slug": "subduction-initiation"
+       "name": "AI-powered geodynamics",
+       "slug": "integrate-thermodynamics"
      },
      {
-       "name": "LLSVP Morphologies",
-       "slug": "llsvp-morphologies"
+       "name": "Deep mantle eterogeneities",
+       "slug": "llsvp-ulvz"
      },
      {
        "name": "Lithium Isotope Studies",
