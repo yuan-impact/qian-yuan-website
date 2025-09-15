@@ -15,12 +15,12 @@
       "path": "/research", 
       "id": "research",
       "children": [
-        { "name": "Giant Impact Origin of LLSVPs", "path": "/research/giant-impact-llsvps", "id": "giant-impact" },
-        { "name": "Subduction Initiation", "path": "/research/subduction-initiation", "id": "subduction" },
-        { "name": "Different Morphologies of LLSVPs", "path": "/research/llsvp-morphologies", "id": "morphologies" },
-        { "name": "Lithium Isotope in Humite", "path": "/research/lithium-isotope-humite", "id": "lithium" },
-        { "name": "Mush Emplacement in Bushveld", "path": "/research/mush-emplacement-bushveld", "id": "bushveld" },
-        { "name": "Zircon Coronas Around Fe-Ti Oxides", "path": "/research/zircon-coronas-fe-ti-oxides", "id": "zircon" }
+        { "name": "Moon-forming Giant Impact", "path": "/research/giant-impact", "id": "giant-impact" },
+        { "name": "AI-powered Geodynamics", "path": "/research/ai-geodynamics", "id": "ai-geodynamics" },
+        { "name": "Mars Dynamics", "path": "/research/Mars", "id": "Mars" },
+        { "name": "Mantle Heterogeneities", "path": "/research/llsvp-ulvz", "id": "interior" },
+        { "name": "Tectonic Magmatism", "path": "/research/tectonic-magmatism", "id": "tectonics" },
+        { "name": "Ore-forming Magma Chamber Processes", "path": "/research/magmatic_process", "id": "magma" }
       ]
     },
     { "name": "People", "path": "/people", "id": "people" },
@@ -699,19 +699,19 @@
    "researchAreas": [
      {
        "name": "Giant Impact",
-       "slug": "giant-impact-llsvps"
+       "slug": "giant-impact"
      },
      {
        "name": "AI-powered geodynamics",
-       "slug": "integrate-thermodynamics"
+       "slug": "ai-geodynamics"
      },
      {
-       "name": "Deep mantle heterogeneities",
+       "name": "Mars Dynamics",
+       "slug": "Mars"
+     },
+     {
+       "name": "Mantle Heterogeneities",
        "slug": "llsvp-ulvz"
-     },
-     {
-       "name": "Tectonic magmatism",
-       "slug": "lithium-isotope-humite"
      }
    ]
  }

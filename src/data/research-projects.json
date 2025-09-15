@@ -1,5 +1,5 @@
 {
-  "giant-impact-llsvps": {
+  "giant-impact": {
     "title": "PLANETARY: Moon-forming Giant Impact",
     "subtitle": "Understanding the evidence and long-term consequences of the last major accretion of Earth.",
     "content": "Earth’s evolution began 4.5 billion years ago with the Moon-forming impact between Earth and the hypothesized planet Theia. We explore whether continental-scale seismic anomalies are remnants of Theia’s mantle and how plumes from them may have triggered the earliest subduction.",
@@ -23,7 +23,7 @@
         "authors": "Yuan, Q., et al.",
         "journal": "Nature",
         "year": "2023 (Cover Article)",
-        "doi": "doi.org/10.1038/s41586-023-06589-1"
+        "doi": "https://doi.org/10.1038/s41586-023-06589-1"
       }
     ],
     "images": [
@@ -34,7 +34,7 @@
       }
     ]
   },
-  "integrate-thermodynamics": {
+  "ai-thermodynamics": {
     "title": "GEOPHYSICS: AI-powered Geodynamics",
     "subtitle": "Mechanisms and Processes of Subduction Zone Formation",
     "content": "Bridging mantle flow and thermodynamics efficiently remains a major challenge. To address this, we introduce a flexible, general, and efficient framework that integrates geodynamics with thermodynamics using machine learning.",
@@ -57,7 +57,7 @@
       }
     ]
   },
-  "llsvp-ulvz": {
+  "Mars": {
     "title": "PLANETARY: Mars Dynamics",
     "subtitle": "Co-evolition of Martian interior and surface geological features",
     "content": "The internal structure of Mars, including its core, mantle, and crust, holds the key to explaining the planet’s hemispheric dichotomy and its long-term thermal evolution. Insights from marsquakes recorded by NASA’s InSight mission are reshaping our understanding of how these deep processes connect to surface geology and the planet’s divergent evolutionary path compared to Earth.",
@@ -76,7 +76,7 @@
       }
     ]
   },
-  "lithium-isotope-humite": {
+  "llsvp-ulvz": {
     "title": "GEOPHYSICS: Mantle Heterogeneities",
     "subtitle": "Dynamics of Large Low Shear Velocity Provinces and Ultra-low Velocity Provinces",
     "content": "The structure, morphology, and evolution of deep mantle heterogeneities hold the key to understanding the dynamic processes operating in Earth’s interior, processes that influence the geodynamo, the supercontinent cycle, and supervolcano eruptions",
@@ -95,7 +95,7 @@
       }
     ]
   },
-  "mush-emplacement-bushveld": {
+  "tectonic-magmatism": {
     "title": "GEOCHEMISTRY: Tectonic Magmatism",
     "subtitle": "Magmatic Processes in the Bushveld Complex",
     "content": "Tectonic magmatism is a primary window into mantle–crust interactions, recording how melts ascend, react, and reshape the lithosphere. The differentiation of these magmas generates the chemical diversity of Earth’s crust and preserves vital clues about mantle source processes and tectonic environments.",
@@ -114,7 +114,7 @@
       }
     ]
   },
-  "zircon-coronas-fe-ti-oxides": {
+  "magmatic_process": {
     "title": "PETROLOGY: Ore-forming Magma Chamber Processes",
     "subtitle": "Temporal Constraints from Zircon Corona Textures",
     "content": "Understanding their origin, the physical and chemical processes within magma chambers, and their tectonic context not only advances fundamental igneous petrology but also informs the exploration of critical mineral resources essential for modern technology and the global energy transition.",
