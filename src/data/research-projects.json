@@ -35,9 +35,9 @@
     ]
   },
   "integrate-thermodynamics": {
-    "title": "GEOPHYSICS: SUBDUCTION INITIATION",
+    "title": "GEOPHYSICS: AI-powered Geodynamics",
     "subtitle": "Mechanisms and Processes of Subduction Zone Formation",
-    "content": "Subduction initiation is one of the most important processes in plate tectonics, yet the mechanisms that trigger the onset of subduction remain poorly understood. Our research investigates the geophysical and geochemical signatures of subduction initiation.",
+    "content": "Bridging mantle flow and thermodynamics efficiently remains a major challenge. To address this, we introduce a flexible, general, and efficient framework that integrates geodynamics with thermodynamics using machine learning.",
     "sections": [
       {
         "title": "Research Focus",
@@ -58,9 +58,9 @@
     ]
   },
   "llsvp-ulvz": {
-    "title": "GEOPHYSICS: DIFFERENT MORPHOLOGIES OF LLSVPS",
+    "title": "GEOPHYSICS: Deep Mantle Heterogeneities",
     "subtitle": "Structural Variations in Large Low Shear Velocity Provinces",
-    "content": "LLSVPs exhibit distinct morphological characteristics that provide insights into their origin and evolution. Our research focuses on understanding the structural diversity of these deep mantle features.",
+    "content": "The structure, morphology, and evolution of deep mantle heterogeneities hold the key to understanding the dynamic processes operating in Earth’s interior, processes that influence the geodynamo, the supercontinent cycle, and supervolcano eruptions.",
     "sections": [
       {
         "title": "Morphological Analysis",
@@ -77,9 +77,9 @@
     ]
   },
   "lithium-isotope-humite": {
-    "title": "GEOCHEMISTRY: LITHIUM ISOTOPE IN HUMITE",
+    "title": "GEOCHEMISTRY: Tectonic Magmatism",
     "subtitle": "Lithium Isotopic Signatures in Humite Group Minerals",
-    "content": "Humite group minerals provide unique insights into deep Earth processes through their lithium isotopic compositions. Our research investigates how these signatures can be used to understand mantle evolution and fluid-rock interactions.",
+    "content": "Tectonic magmatism is a primary window into mantle–crust interactions, recording how melts ascend, react, and reshape the lithosphere. The differentiation of these magmas generates the chemical diversity of Earth’s crust and preserves vital clues about mantle source processes and tectonic environments.",
     "sections": [
       {
         "title": "Analytical Techniques",
