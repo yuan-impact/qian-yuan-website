@@ -34,7 +34,7 @@
       }
     ]
   },
-  "subduction-initiation": {
+  "integrate-thermodynamics": {
     "title": "GEOPHYSICS: SUBDUCTION INITIATION",
     "subtitle": "Mechanisms and Processes of Subduction Zone Formation",
     "content": "Subduction initiation is one of the most important processes in plate tectonics, yet the mechanisms that trigger the onset of subduction remain poorly understood. Our research investigates the geophysical and geochemical signatures of subduction initiation.",
@@ -57,7 +57,7 @@
       }
     ]
   },
-  "llsvp-morphologies": {
+  "llsvp-ulvz": {
     "title": "GEOPHYSICS: DIFFERENT MORPHOLOGIES OF LLSVPS",
     "subtitle": "Structural Variations in Large Low Shear Velocity Provinces",
     "content": "LLSVPs exhibit distinct morphological characteristics that provide insights into their origin and evolution. Our research focuses on understanding the structural diversity of these deep mantle features.",
