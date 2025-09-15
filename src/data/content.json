@@ -2,7 +2,7 @@
   "site": {
     "title": "Dr. Qian Yuan ",
     "subtitle": "Academic Researcher",
-    "description": "Research in Geophysics, Geochemistry, Igneous Petrology, and Geochronology"
+    "description": "Research in Computational geodynamics, Geophysics, Planetary science, and Tectonic magmatism"
   },
   "logo": {
     "primary": "Dr. QIAN",
@@ -64,20 +64,20 @@
   },
   "pages": {
     "home": {
-      "title": "Welcome to Dr. Qian Yuan's Research",
+      "title": "Welcome to IMPACT Lab at Texas A&M",
       "content": "Dr. Qian Yuan is the Principal Investigator of the IMPACT Lab—Intelligent Modeling of Planetary Accretion, Convection, and Tectonics—which tackles one of the most profound questions in planetary science: What makes a planet habitable?",
       "sections": [
         {
           "title": "Research Focus",
-          "content": "Our interdisciplinary approach combines geophysical modeling, geochemical analysis, and petrological studies to investigate fundamental questions about Earth's structure and evolution."
+          "content": "Leveraging AI-powered geodynamics to explore mantle dynamics and unlock the secrets of planetary diversity and habitability."
         },
         {
-          "title": "Current Projects",
-          "content": "We are currently investigating the giant impact origin of Large Low Shear Velocity Provinces (LLSVPs), subduction initiation processes, and the geochemical signatures preserved in various mineral systems."
+          "title": "Ongoing Projects",
+          "content": "We use AI-powered geodynamics to explore planetary interiors—from the Moon-forming impact to mantle dynamics and deep-Earth mysteries."
         }
       ],
       "researchAreasTitle": "Research Areas",
-      "researchAreasSubtitle": "Exploring fundamental questions in Earth sciences through interdisciplinary research",
+      "researchAreasSubtitle": "Unraveling Earth’s and planets’ greatest puzzles through computational modeling and cross-disciplinary research",
       "researchAreas": [
         {
           "title": "Geophysics",
@@ -85,23 +85,23 @@
           "icon": "🌍"
         },
         {
-          "title": "Geochemistry",
-          "description": "Analyzing isotopic signatures and chemical processes",
-          "icon": "⚗️"
+          "title": "Giant Impact",
+          "description": "Tracing geophysical consequences of the Giant Impact",
+          "icon": "🌙"
         },
         {
-          "title": "Igneous Petrology",
-          "description": "Studying magmatic processes and rock formation",
+          "title": "AI+Geodynamics",
+          "description": "AI-enhanced integration of convection and thermodynamics",
+          "icon": "🧠💻"
+        },
+        {
+          "title": "Tectonic magmatism",
+          "description": "Decoding magmatic processes and tectonic forces",
           "icon": "🔥"
-        },
-        {
-          "title": "Geochronology",
-          "description": "Dating geological events and processes",
-          "icon": "⏰"
         }
       ],
       "ctaTitle": "Interested in Our Research?",
-      "ctaSubtitle": "Explore our latest findings, publications, and opportunities to join our research team."
+      "ctaSubtitle": "Explore our latest findings, publications, and opportunities to join our IMPACT team."
     },
     "research": {
       "title": "Research Overview",
