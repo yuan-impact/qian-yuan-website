@@ -127,17 +127,17 @@
       "researchAreasTitle": "Research Areas",
       "researchAreasSubtitle": "Simulate how Earth and planetary bodies form, evolve, and diversify",
       "methodologyTitle": "Our Approach",
-      "methodologyContent": "We employ cutting-edge analytical techniques and computational methods to understand Earth's complex processes across multiple scales and time periods.",
+      "methodologyContent": "We use cutting-edge AI and advanced computational methods to explore the dynamic processes that shape rocky planets across multiple scales and through deep time.",
       "methods": [
-        "High-precision isotopic analysis",
-        "Advanced computational modeling",
-        "Multi-scale experimental studies",
+        "AI-powered computational geodynamics",
+        "Advanced numerical algorithms",
+        "Integrative thermodynamics",
         "Interdisciplinary collaboration"
       ],
       "impactTitle": "Research Impact",
       "impactStats": [
         {
-          "value": "50+",
+          "value": "20+",
           "label": "Publications"
         },
         {
@@ -145,16 +145,16 @@
           "label": "Collaborations"
         },
         {
-          "value": "10+",
+          "value": "5+",
           "label": "Awards"
         },
         {
-          "value": "25+",
-          "label": "Students"
+          "value": "1000+",
+          "label": "Media Recognition"
         }
       ],
       "ctaTitle": "Collaborate With Us",
-      "ctaSubtitle": "Interested in our research? We welcome collaborations, student applications, and research partnerships."
+      "ctaSubtitle": "Interested in our research? We welcome collaborations, student applications, and research partnerships — reach out to us at qyuan@tamu.edu"
     },
     "people": {
       "title": "Research Team",
