@@ -5,7 +5,7 @@
     "description": "Research in Geophysics, Geochemistry, Igneous Petrology, and Geochronology"
   },
   "logo": {
-    "primary": "DR. QIAN",
+    "primary": "Dr. QIAN",
     "secondary": "YUAN"
   },
   "navigation": [
@@ -32,32 +32,32 @@
     "slides": [
       {
         "image": "https://lh3.googleusercontent.com/d/1a41GHdXX5TtlwFQkxo3idpiP0Vjq3oUX",
-        "title": "Tracing the Earliest Chapters of Planetary History",
-        "subtitle": "Illuminating the geophysical forces that forged Earth’s earliest environments for life.",
+        "title": "Early Terrestrial Worlds",
+        "subtitle": "What forces shaped their different evolutionary paths?",
         "alt": "Beautiful view of Earth from space showing atmospheric layers"
       },
       {
         "image": "https://lh3.googleusercontent.com/d/1co_6KbSrkwfir4zdfNoCl0kxbK7C125V",
-        "title": "Geochemical Investigations",
-        "subtitle": "Analyzing isotopic signatures to unlock Earth's history",
+        "title": "Exoplanet Hunt",
+        "subtitle": "How Earth’s lessons illuminate the search for habitable worlds?",
         "alt": "Mars surface with rocky terrain and atmospheric haze"
       },
       {
         "image": "https://lh3.googleusercontent.com/d/1O0vGFqmhiAnaT7937lAUca4H_qd4Jn3Q",
-        "title": "Igneous Petrology Research",
-        "subtitle": "Studying magmatic processes and rock formation",
+        "title": "AI-powered Geodynamics",
+        "subtitle": "Toward next-generation of Earth and planetary simulations",
         "alt": "Stunning view of Jupiter with its distinctive bands and storms"
       },
       {
         "image": "https://lh3.googleusercontent.com/d/1Lna5gqduvftmKCeMFNVw9ly2HGrpQdxe",
-        "title": "Igneous Petrology Research",
-        "subtitle": "Studying magmatic processes and rock formation",
+        "title": "Giant Impact Remnant",
+        "subtitle": "Tracing the missing 'Theia' and Earth's habitability?",
         "alt": "Stunning view of Jupiter with its distinctive bands and storms"
       },
       {
         "image": "https://lh3.googleusercontent.com/d/1qfF1HqHUhUht4YzD1y0sZk9teORtbTVX",
-        "title": "Igneous Petrology Research",
-        "subtitle": "Studying magmatic processes and rock formation",
+        "title": "Origin of the Earth-Moon",
+        "subtitle": "What makes Earth unique and habitable?",
         "alt": "Stunning view of Jupiter with its distinctive bands and storms"
       }
     ]
