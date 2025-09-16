@@ -59,7 +59,7 @@
     "images": [
       {
         "src": "https://lh3.googleusercontent.com/d/1NEHOiL6L-TaGmoUptOUht3G6h_5UBEeF",
-        "alt": "Mars surface showing geological formations",
+        "alt": "AI-powered geodynamics",
         "caption": "Bridging mantle flow and thermodynamics efficiently with Neural Network Acceleration"
       }
     ]
@@ -70,16 +70,16 @@
     "content": "The internal structure of Mars, including its core, mantle, and crust, holds the key to explaining the planet’s hemispheric dichotomy and its long-term thermal evolution. Insights from marsquakes recorded by NASA’s InSight mission are reshaping our understanding of how these deep processes connect to surface geology and the planet’s divergent evolutionary path compared to Earth.",
     "sections": [
       {
-        "title": "Morphological Analysis",
-        "content": "We analyze seismic tomography data to characterize the three-dimensional structure and morphology of LLSVPs, identifying key differences between the African and Pacific provinces."
+        "title": "Research Objectives",
+        "content": "We will conduct numerical simulations of mantle dynamics and earthquake physics, with a particular focus on the recent Marsquake. Our research integrates geodynamic modeling to constrain fault structures and employs seismic cycle simulations to investigate the underlying earthquake processes."
       }
     ],
     "publications": [],
     "images": [
       {
-        "src": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
-        "alt": "Jupiter with its distinctive atmospheric bands",
-        "caption": "Planetary structures analogous to LLSVP morphological variations"
+        "src": "https://lh3.googleusercontent.com/d/1auuR9azW431yf2ZjDlSCCGF_qbmJ7hUE",
+        "alt": "NASA's Insight Mission",
+        "caption": "An artist illustration of the InSight lander on Mars. NASA JPL/Caltech"
       }
     ]
   },
