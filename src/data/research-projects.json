@@ -43,24 +43,24 @@
   },
   "ai-geodynamics": {
     "title": "GEOPHYSICS: AI-powered Geodynamics",
-    "subtitle": "Mechanisms and Processes of Subduction Zone Formation",
-    "content": "Bridging mantle flow and thermodynamics efficiently remains a major challenge. To address this, we introduce a flexible, general, and efficient framework that integrates geodynamics with thermodynamics using machine learning.",
+    "subtitle": "Toward the Next-generation of Geodynamic Simulation",
+    "content": "Neural operators enable geodynamic models to tackle both forward and inverse mantle convection, greatly accelerating simulations while maintaining accuracy. AI also provides a framework to couple geodynamics with thermodynamics, integrating chemical and physical processes into a unified view of Earth’s interior.",
     "sections": [
       {
-        "title": "Research Focus",
-        "content": "We study the conditions and processes that lead to the formation of new subduction zones, combining field observations, laboratory experiments, and numerical modeling to understand this fundamental tectonic process."
+        "title": "Research Questions",
+        "content": "How can neural operators accelerate forward and inverse mantle convection while matching the accuracy of traditional models? How can AI integrate mantle flow with thermodynamic phase changes to build unified models of Earth’s evolution?"
       },
       {
-        "title": "Analytical Approaches",
-        "content": "Our research employs multi-scale modeling approaches, from local stress field analysis to global geodynamic simulations, to understand the initiation and early evolution of subduction systems."
+        "title": "Key Findings",
+        "content": "We show that the machine learning framework accelerates coupled geodynamic-geochemical modeling by more than 100-fold. The approach paves the way for integrating large-scale 2D and 3D geodynamic and geochemical modeling studies across a broader range of model parameters and at larger spatial and temporal scales than previously possible."
       }
     ],
     "publications": [],
     "images": [
       {
-        "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+        "src": "https://lh3.googleusercontent.com/d/1NEHOiL6L-TaGmoUptOUht3G6h_5UBEeF",
         "alt": "Mars surface showing geological formations",
-        "caption": "Geological processes on Mars provide insights into subduction initiation mechanisms"
+        "caption": "Bridging mantle flow and thermodynamics efficiently with Neural Network Acceleration"
       }
     ]
   },
