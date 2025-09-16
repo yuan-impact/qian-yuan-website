@@ -85,20 +85,28 @@
   },
   "llsvp-ulvz": {
     "title": "GEOPHYSICS: Mantle Heterogeneities",
-    "subtitle": "Dynamics of Large Low Shear Velocity Provinces and Ultra-low Velocity Provinces",
-    "content": "The structure, morphology, and evolution of deep mantle heterogeneities hold the key to understanding the dynamic processes operating in Earth’s interior, processes that influence the geodynamo, the supercontinent cycle, and supervolcano eruptions",
+    "subtitle": "Uncovering the Structure and Dynamics of Earth's Mantle Heterogeneities",
+    "content": "The structure, morphology, and evolution of deep mantle heterogeneities—particularly the Large Low Shear Velocity Provinces (LLSVPs) and Ultra-Low Velocity Zones (ULVZs)—hold the key to understanding dynamic processes within Earth’s interior. These features influence core–mantle interactions, the geodynamo, the supercontinent cycle, and the triggering of supervolcano eruptions.",
     "sections": [
       {
-        "title": "Analytical Techniques",
-        "content": "We employ high-precision mass spectrometry to measure lithium isotope ratios in humite group minerals, developing new analytical protocols for small sample sizes."
+        "title": "Research Questions",
+        "content": "What is the morphology of LLSVPs? What factors control the morphology of LLSVPs? What is the relationship between LLSVPs and ULVZs?"
       }
     ],
-    "publications": [],
+    "publications": [
+	{ 
+        "title": "Instability of the African large low-shear-wave-velocity province due to its low intrinsic density",
+        "authors": "Yuan, Q., Li, M.M.",
+        "journal": "Nature Geoscience",
+        "year": "2022",
+        "doi": "https://doi.org/10.1038/s41561-022-00908-3"
+          }
+	],
     "images": [
       {
-        "src": "https://images.unsplash.com/photo-1614313913007-2b4ae8ce32d6?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
-        "alt": "Earth from space showing atmospheric layers",
-        "caption": "Atmospheric processes analogous to lithium isotope fractionation"
+        "src": "https://lh3.googleusercontent.com/d/1-YjiE_vE-xQYo7afryWUSLPcChbXtlaH",
+        "alt": "The two massive mantle blobs",
+        "caption": "The two continental-sized large low-velocity provinces in the lower mantle. Image by Edward Garnero, model from French & Romanowicz, 2014"
       }
     ]
   },
