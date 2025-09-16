@@ -124,31 +124,27 @@
     "images": [
       {
         "src": "https://lh3.googleusercontent.com/d/1N_dij-LT2atfAe7GC4vurAukhtX7XVHq",
-        "alt": "Jupiter's Great Red Spot",
-        "caption": "Complex fluid dynamics similar to magmatic mush emplacement processes"
+        "alt": "Slad breakoff",
+        "caption": "Lithospheric melting induced by a slab break-off after continental collision."
       }
     ]
   },
   "magmatic-process": {
     "title": "PETROLOGY: Ore-forming Magma Chamber Processes",
-    "subtitle": "Temporal Constraints from Zircon Corona Textures",
+    "subtitle": "Investigate how magma accumulates, evolves, and drives mineralization and volcanic activity",
     "content": "Understanding their origin, the physical and chemical processes within magma chambers, and their tectonic context not only advances fundamental igneous petrology but also informs the exploration of critical mineral resources essential for modern technology and the global energy transition.",
     "sections": [
       {
-        "title": "Geochronological Methods",
-        "content": "We use high-resolution ion microprobe techniques to date zircon coronas, providing precise temporal constraints on the formation and evolution of Fe-Ti oxide-bearing assemblages."
-      },
-      {
-        "title": "Textural Analysis",
-        "content": "Detailed petrographic and electron microscopy studies reveal the complex relationships between zircon coronas and their host Fe-Ti oxides, informing our geochronological interpretations."
+        "title": "Key Findings",
+        "content": "The Bushveld UUMZ grew through repeated replenishment and emplacement of plagioclase- and crystal-laden magmas from deeper chambers, producing cyclic reversals in mineral compositions and linked anorthosite or leucogabbro layers. Subsequent hybrid melt formation, immiscibility of Fe- and Si-rich melts, and slow cooling in a shallow chamber controlled the evolution of magnetite layers and systematic compositional trends within each cycle."
       }
     ],
     "publications": [],
     "images": [
       {
-        "src": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
-        "alt": "Mars surface with mineral formations",
-        "caption": "Mineral textures and formations analogous to zircon corona structures"
+        "src": "https://lh3.googleusercontent.com/d/1XWq5ii6SwVnIpzLyrpeUNBq1qa8WeUEC",
+        "alt": "Bushveld thin section",
+        "caption": "Representative thin section of a plagioclase-rich sample from the Bushveld layered intrusion"
       }
     ]
   }
