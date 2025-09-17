@@ -182,10 +182,10 @@
         },
         {
           "name": "Surya Donath",
-          "title": "High school senior, LA",
+          "title": "IMPACT-lab alumni",
           "affiliation": "Admitted to Stanford’s geophysics program",
           "image": "https://lh3.googleusercontent.com/d/1dSa-M89yCnEYFZLeNdzh0uxl-rE3Dqpe",
-          "bio": "Surya has worked with me for the past two years on recycling of oceanic crust and its mixing with the 'Theia' mantle blobs.",
+          "bio": "Surya, a high school senior, has worked with me for the past two years on recycling of oceanic crust and its mixing with the 'Theia' mantle blobs.",
           "expertise": ["Computational Modeling", "Mantle Dynamics", "Subduction"],
           "email": "suryadonath@gmail.com"
         },
@@ -195,7 +195,7 @@
           "affiliation": "Graduate Program in Geophysics",
           "image": "https://lh3.googleusercontent.com/d/1o4_IyBBYwqugvLHwuotwwoH1WRziDUQB",
           "bio": "Open position — apply now! Reach out to the PI.",
-          "expertise": ["AI/ML", "Computational Modeling", ""],
+          "expertise": ["AI/ML", "Computational Modeling"],
           "email": "tbd@university.edu"
         },
         {
@@ -204,7 +204,7 @@
           "affiliation": "Graduate Program in Geophysics",
           "image": "https://lh3.googleusercontent.com/d/1o4_IyBBYwqugvLHwuotwwoH1WRziDUQB",
           "bio": "Open position — apply now! Reach out to the PI.",
-          "expertise": ["AI/ML", "Computational Modeling", ""],
+          "expertise": ["AI/ML", "Computational Modeling"],
           "email": "tbd2@university.edu"
         },
         {
@@ -294,7 +294,7 @@
           "audience": "K-10 or 11 Students",
           "frequency": "Daily",
           "participants": "10+ students annually",
-          "image": "/images/outreach/school-program.jpg"
+          "image": "https://lh3.googleusercontent.com/d/1y9NAA-qwB6VQqFPrrnIGeOQUoFBcHJdr"
         },
         {
           "title": "Interview at Science",
@@ -302,15 +302,15 @@
           "audience": "General Public",
           "frequency": "1-2/year",
           "participants": "2M+ readers",
-          "image": "/images/outreach/public-talks.jpg"
+          "image": "https://lh3.googleusercontent.com/d/17XX211PPhodmyvtOCzjJWBlySnSEWrgB"
         },
         {
-          "title": "Undergraduate Summer School",
-          "description": "This no-cost summer school, running from Aug. 10-16, 2025, offers undergraduate students a hands-on introduction to research in the Department of Geology & Geophysics.",
-          "audience": "Undergraduate Students",
-          "frequency": "Annual",
-          "participants": "10-20 students per year",
-          "image": "/images/outreach/undergrad-program.jpg"
+          "title": "Interviewed by Nature",
+          "description": "Nature journalist Anil Oza conducted an in-depth interview on our Giant Impact remnant study.",
+          "audience": "General Public",
+          "frequency": "2023",
+          "participants": "3M+ readers",
+          "image": "https://lh3.googleusercontent.com/d/1wptkNsPTYLotNhXUHqASZi0db2cKUhuC"
         },
         {
           "title": "Guest Lecture for Schools",
@@ -318,7 +318,7 @@
           "audience": "High school students",
           "frequency": "2023",
           "participants": "200+ students",
-          "image": "https://images.unsplash.com/photo-1614313913007-2b4ae8ce32d6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+          "image": "https://lh3.googleusercontent.com/d/1UUCUl_p6wUAG0c24yafk_vOec1fnuRll"
         }
       ],
       "impactTitle": "Our Impact",
