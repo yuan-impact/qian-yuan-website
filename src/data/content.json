@@ -284,101 +284,101 @@
      },
      "outreach": {
       "title": "Outreach & Education",
-      "content": "We are committed to sharing our research with the broader community through educational programs, public lectures, and collaborative initiatives.",
+      "content": "We are committed to sharing our research with the broader community through educational programs, public lectures, and collaborative initiatives. Work from the IMPACT Lab has been highlighted by premier outlets such as The New York Times, The Washington Post, Reuters, BBC News, CNN, TIME, and The Guardian—with coverage in more than 1,300 publications worldwide—and featured on leading programs from National Geographic, NPR, and the Canadian Broadcasting Corporation. In recognition of this impact, the PI was invited to speak at Granada Hills Charter School, one of the largest high schools in the United States.",
       "programsTitle": "Our Programs",
       "programsSubtitle": "Engaging diverse audiences through innovative educational initiatives",
       "programs": [
         {
-          "title": "Earth Science for Schools",
-          "description": "Interactive workshops and presentations for K-12 students to explore Earth's mysteries through hands-on activities and demonstrations.",
-          "audience": "K-12 Students",
-          "frequency": "Monthly",
-          "participants": "500+ students annually",
+          "title": "Caltech Earthquake Fellow Program",
+          "description": "4 month program to understand the science of earthquakes, learn how to measure them, and gain the skills needed to succeed in university settings.",
+          "audience": "K-10 or 11 Students",
+          "frequency": "Daily",
+          "participants": "10+ students annually",
           "image": "/images/outreach/school-program.jpg"
         },
         {
-          "title": "Community Science Talks",
-          "description": "Public lectures on current Earth science research, making complex topics accessible to general audiences.",
+          "title": "Interview at Science",
+          "description": "Requested to share insights on recent major discovery of a solid inner core and large-scale heterogeneties in Mars.",
           "audience": "General Public",
-          "frequency": "Quarterly",
-          "participants": "200+ attendees per event",
+          "frequency": "1-2/year",
+          "participants": "2M+ readers",
           "image": "/images/outreach/public-talks.jpg"
         },
         {
-          "title": "Undergraduate Research Program",
-          "description": "Summer research opportunities for undergraduate students to participate in cutting-edge Earth science research.",
+          "title": "Undergraduate Summer School",
+          "description": "This no-cost summer school, running from Aug. 10-16, 2025, offers undergraduate students a hands-on introduction to research in the Department of Geology & Geophysics.",
           "audience": "Undergraduate Students",
           "frequency": "Annual",
-          "participants": "15-20 students per year",
+          "participants": "10-20 students per year",
           "image": "/images/outreach/undergrad-program.jpg"
         },
         {
-          "title": "Science Museum Partnerships",
-          "description": "Collaborative exhibits and educational programs with local science museums to showcase Earth science discoveries.",
-          "audience": "Museum Visitors",
-          "frequency": "Ongoing",
-          "participants": "1000+ visitors monthly",
+          "title": "Guest Lecture for Schools",
+          "description": "Invited lecture at the Granada Hills High School, the largest in Los Angeles.",
+          "audience": "High school students",
+          "frequency": "2023",
+          "participants": "200+ students",
           "image": "https://images.unsplash.com/photo-1614313913007-2b4ae8ce32d6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
         }
       ],
       "impactTitle": "Our Impact",
-      "impactSubtitle": "Measuring the reach and effectiveness of our outreach efforts",
+      "impactSubtitle": "Sharing our science with communities worldwide",
       "impactStats": [
         {
-          "number": "2,500+",
+          "number": "1,000+",
           "label": "Students Reached",
           "description": "K-12 and undergraduate students engaged annually",
           "icon": "🎓"
         },
         {
-          "number": "50+",
-          "label": "Public Events",
-          "description": "Talks, workshops, and presentations per year",
+          "number": "30+",
+          "label": "Talks & Lectures Given",
+          "description": "Talks, workshops, and presentations",
           "icon": "🎤"
         },
         {
-          "number": "15+",
+          "number": "1,500+",
           "label": "Media Features",
-          "description": "Articles, interviews, and documentaries",
+          "description": "Articles, interviews, and podcasts",
           "icon": "📺"
         },
         {
-          "number": "10+",
-          "label": "Partnerships",
-          "description": "Collaborations with schools and museums",
-          "icon": "🤝"
+          "number": "30+",
+          "label": "Publications",
+          "description": "Conference abstracts, peer-reviewed papers",
+          "icon": "📚"
         }
       ],
       "mediaTitle": "Media & Press",
-      "mediaSubtitle": "Our research featured in leading science media outlets",
+      "mediaSubtitle": "Our research featured in premier general and science media outlets",
       "mediaFeatures": [
         {
-          "title": "Understanding Earth's Deep Mysteries",
-          "outlet": "National Geographic",
+          "title": "Mysterious blobs inside Earth triggered plate tectonics",
+          "outlet": "The Washington Post",
           "type": "Magazine Article",
-          "date": "March 2024",
-          "description": "Feature article on our research into Large Low Shear Velocity Provinces and their origins."
+          "date": "May 2024",
+          "description": "Feature article on our Giant-Impact origin for subduction initiation (Yuan et al., 2024, GRL)."
         },
         {
-          "title": "The Science of Giant Impacts",
-          "outlet": "Science Friday (NPR)",
-          "type": "Radio Interview",
-          "date": "February 2024",
-          "description": "Discussion of how giant impacts shaped early Earth and created lasting geological features."
+          "title": "A 'Big Whack' Formed the Moon and Left Traces Deep in Earth",
+          "outlet": "New York Times",
+          "type": "Magazine Article",
+          "date": "November 2023",
+          "description": "Discussion of how the Large Low-Shear Velocity Provinces may represent the Theia remnant"
         },
         {
-          "title": "Subduction Zones Explained",
-          "outlet": "YouTube Science Channel",
+          "title": "The Remains of an Ancient Planet Lie Deep Within Earth",
+          "outlet": "Caltech",
           "type": "Educational Video",
-          "date": "January 2024",
-          "description": "Animated explanation of subduction initiation processes for general audiences."
+          "date": "November 2024",
+          "description": "Animated explanation of the Giant-Impact origin of LLSVPs for general audiences. Link: https://www.youtube.com/watch?v=k4dQW_fUgik"
         },
         {
-          "title": "Early Earth Evolution",
-          "outlet": "Scientific American",
-          "type": "Opinion Piece",
-          "date": "December 2023",
-          "description": "Perspective on new insights into Earth's first billion years of evolution."
+          "title": "Remains of impact that created the Moon may lie deep within Earth",
+          "outlet": "Science",
+          "type": "News",
+          "date": "March 2021",
+          "description": "Perspective on new insights into the remains of the Moon-forming imapct."
         }
       ],
 
