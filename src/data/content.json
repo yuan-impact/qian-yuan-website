@@ -157,64 +157,55 @@
       "ctaSubtitle": "Interested in our research? We welcome collaborations, student applications, and research partnerships — reach out to us at qyuan@tamu.edu"
     },
     "people": {
-      "title": "Research Team",
-      "content": "Our diverse research team brings together expertise from multiple disciplines to tackle complex questions in Earth sciences.",
-      "teamSectionTitle": "Our Research Team",
-      "teamSectionSubtitle": "Meet the dedicated researchers advancing our understanding of Earth sciences",
+      "title": "IMPACT Team",
+      "content": "The IMPACT Group (Intelligent Modeling of Planetary Accretion, Convection, and Tectonics) in the Department of Geology & Geophysics at Texas A&M is part of the Research in Artificial Intelligence for Science and Engineering (RAISE) Initiative. We leverage AI/ML to build next-generation Earth and planetary simulations, tackling some of the biggest puzzles in Earth and other worlds. Our team values multidisciplinary collaboration, diversity, and a strong research spirit. If you’re interested in a PhD, postdoc, or undergraduate project, contact the PI at qyuan@tamu.edu",
+      "teamSectionTitle": "About the IMPACT Group",
+      "teamSectionSubtitle": "We are dedicated to advancing next-generation Earth and planetary simulations through AI/ML innovation.",
       "team": [
         {
           "name": "Dr. Qian Yuan",
           "title": "Principal Investigator",
-          "affiliation": "Department of Earth Sciences",
-          "image": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-          "bio": "Dr. Yuan is a leading researcher in geophysics and planetary science, specializing in Earth's deep structure and early evolution.",
-          "expertise": ["Geophysics", "Planetary Science", "Numerical Modeling"],
-          "email": "qyuan@university.edu"
+          "affiliation": "Geology & Geophysics, RAISE Initiative",
+          "image": "https://lh3.googleusercontent.com/d/15Hi7z0WLfhuZdrcpOH6_ylKGMAYC-9QZ",
+          "bio": "Dr. Yuan is a computational geodynamicist exploring how planetary interiors shape habitability.",
+          "expertise": ["Computational geodynamics", "Planetary Science", "AI/ML"],
+          "email": "qyuan@tamu.edu"
         },
         {
-          "name": "Dr. Sarah Johnson",
+          "name": "Dr. Mingqi Liu",
           "title": "Postdoctoral Researcher",
-          "affiliation": "Department of Earth Sciences",
-          "image": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-          "bio": "Dr. Johnson focuses on geochemical analysis and isotopic studies of early Earth materials.",
-          "expertise": ["Geochemistry", "Isotope Analysis", "Early Earth"],
-          "email": "sjohnson@university.edu"
+          "affiliation": "Department of Geology & Geophysics",
+          "image": "https://lh3.googleusercontent.com/d/17IrIMhE7GHBXAAnrqzux_vdOZQrhl7Xl",
+          "bio": "Dr. Liu focuses on combining geodynamic models and seismic cycle simulations to uncover the mechanisms behind Martian seismicity.",
+          "expertise": ["Geodynamics", "Earthquake simulation", "Geophysics"],
+          "email": "mqliu@tamu.edu"
         },
         {
-          "name": "Michael Chen",
-          "title": "PhD Student",
-          "affiliation": "Graduate Program in Earth Sciences",
-          "image": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-          "bio": "Michael's research focuses on computational modeling of mantle dynamics and subduction processes.",
+          "name": "Surya Donath",
+          "title": "High school senior, LA",
+          "affiliation": "Admitted to Stanford’s geophysics program",
+          "image": "https://lh3.googleusercontent.com/d/1dSa-M89yCnEYFZLeNdzh0uxl-rE3Dqpe",
+          "bio": "Surya has worked with me for the past two years on recycling of oceanic crust and its mixing with the 'Theia' mantle blobs.",
           "expertise": ["Computational Modeling", "Mantle Dynamics", "Subduction"],
-          "email": "mchen@university.edu"
+          "email": "suryadonath@gmail.com"
         },
         {
-          "name": "Emily Rodriguez",
+          "name": "PhD Student (Position Available)",
           "title": "PhD Student",
-          "affiliation": "Graduate Program in Earth Sciences",
-          "image": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-          "bio": "Emily studies igneous petrology and magmatic processes in large igneous provinces.",
-          "expertise": ["Igneous Petrology", "Magmatic Processes", "Field Geology"],
-          "email": "erodriguez@university.edu"
+          "affiliation": "Graduate Program in Geophysics",
+          "image": "https://lh3.googleusercontent.com/d/1o4_IyBBYwqugvLHwuotwwoH1WRziDUQB",
+          "bio": "Open position — apply now! Reach out to the PI.",
+          "expertise": ["AI/ML", "Computational Modeling", ""],
+          "email": "tbd@university.edu"
         },
         {
-          "name": "David Kim",
-          "title": "Master's Student",
-          "affiliation": "Graduate Program in Earth Sciences",
-          "image": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-          "bio": "David is investigating geochronological methods for dating ancient geological events.",
-          "expertise": ["Geochronology", "Analytical Chemistry", "Zircon Dating"],
-          "email": "dkim@university.edu"
-        },
-        {
-          "name": "Lisa Wang",
-          "title": "Undergraduate Researcher",
-          "affiliation": "Department of Earth Sciences",
-          "image": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-          "bio": "Lisa is working on data analysis and visualization for seismic tomography studies.",
-          "expertise": ["Data Analysis", "Seismology", "Visualization"],
-          "email": "lwang@university.edu"
+          "name": "PhD Student (Position Available)",
+          "title": "PhD Student",
+          "affiliation": "Graduate Program in Geophysics",
+          "image": "https://lh3.googleusercontent.com/d/1phD7WXjmjZqJNX8LGCfRwcl3MEq3IYzV",
+          "bio": "Open position — apply now! Reach out to the PI.",
+          "expertise": ["AI/ML", "Seismology", "Visualization"],
+          "email": "tbd2@university.edu"
         }
       ],
       "researchGroupsTitle": "Research Groups",
