@@ -202,72 +202,81 @@
           "name": "PhD Student (Position Available)",
           "title": "PhD Student",
           "affiliation": "Graduate Program in Geophysics",
+          "image": "https://lh3.googleusercontent.com/d/1o4_IyBBYwqugvLHwuotwwoH1WRziDUQB",
+          "bio": "Open position — apply now! Reach out to the PI.",
+          "expertise": ["AI/ML", "Computational Modeling", ""],
+          "email": "tbd2@university.edu"
+        },
+        {
+          "name": "PhD Student (Position Available)",
+          "title": "PhD Student",
+          "affiliation": "Graduate Program in Geophysics",
           "image": "https://lh3.googleusercontent.com/d/1phD7WXjmjZqJNX8LGCfRwcl3MEq3IYzV",
           "bio": "Open position — apply now! Reach out to the PI.",
           "expertise": ["AI/ML", "Seismology", "Visualization"],
-          "email": "tbd2@university.edu"
+          "email": "tbd3@university.edu"
         }
       ],
       "researchGroupsTitle": "Research Groups",
       "researchGroupsSubtitle": "Our interdisciplinary approach brings together expertise from multiple fields",
       "researchGroups": [
         {
-          "title": "Geophysics Group",
+          "title": "Geophysics",
           "description": "Investigating Earth's deep structure and dynamics",
           "members": 3,
           "icon": "🌍"
         },
         {
-          "title": "Geochemistry Lab",
-          "description": "Analyzing isotopic signatures and chemical processes",
+          "title": "Earthquake modelling",
+          "description": "Simulating fault slip, ground shaking, and seismic cycles.",
           "members": 2,
-          "icon": "⚗️"
+          "icon": "🪨"
         },
         {
-          "title": "Petrology Team",
-          "description": "Studying magmatic processes and rock formation",
+          "title": "AI+Geodynamics",
+          "description": "AI-powered models advancing mantle convection studies",
+          "members": 4,
+          "icon": "🧠💻"
+        },
+        {
+          "title": "Tectonic magmatism",
+          "description": "Decoding magmatic processes and tectonic forces",
           "members": 2,
           "icon": "🔥"
-        },
-        {
-          "title": "Geochronology Unit",
-          "description": "Dating geological events and processes",
-          "members": 2,
-          "icon": "⏰"
         }
       ],
       "collaborationsTitle": "Collaborations",
-      "collaborationsSubtitle": "We work with leading institutions and researchers worldwide",
+      "collaborationsSubtitle": "We work with diverse institutions and researchers worldwide",
       "collaborations": [
         {
-          "institution": "Stanford University",
-          "department": "Department of Geophysics",
-          "focus": "Seismic tomography and mantle structure"
+          "institution": "Caltech",
+          "department": "Division of Geological and Planetary Sciences",
+          "focus": "Computational geodynamics, thermodynamics and planetary science"
+        },
+        {
+          "institution": "Princeton University",
+          "department": "Department of Geosciences",
+          "focus": "Computational Mineral Physics, magma ocean"
         },
         {
           "institution": "MIT",
-          "department": "Department of Earth Sciences",
-          "focus": "Computational geodynamics"
+          "department": "Department of Earth, Atmospheric & Planetary Sciences",
+          "focus": "Planetary science"
         },
         {
-          "institution": "Caltech",
-          "department": "Division of Geological Sciences",
-          "focus": "Isotope geochemistry"
+          "institution": "Jet Propulsion Laboratory",
+          "department": "VERITAS Team",
+          "focus": "Venus, Planetary Interiors and Geophysics"
         },
         {
-          "institution": "University of Cambridge",
-          "department": "Department of Earth Sciences",
-          "focus": "Early Earth evolution"
+          "institution": "Arizona State University",
+          "department": "School of Earth and Space Exploration",
+          "focus": "Global seismology, Earth's interior, planet formation"
         },
         {
-          "institution": "ETH Zurich",
-          "department": "Institute of Geochemistry",
-          "focus": "Experimental petrology"
-        },
-        {
-          "institution": "University of Tokyo",
-          "department": "Earthquake Research Institute",
-          "focus": "Deep Earth structure"
+          "institution": "Imperial College London",
+          "department": "Department of Earth Science and Engineering",
+          "focus": "Giant Impact, SPH"
         }
       ],
        "ctaTitle": "Join Our Team",
