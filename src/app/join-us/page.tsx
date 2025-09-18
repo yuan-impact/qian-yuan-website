@@ -243,10 +243,10 @@ export default function JoinUs() {
                     Please include your CV, transcripts, and a brief statement of research interests.
                   </p>
                   <a
-                    href="mailto:qian.yuan@university.edu?subject=Graduate Student Application"
+                    href="mailto:qyuan@tamu.edu?subject=Graduate Student Application"
                     className="text-blue-400 hover:text-blue-300 font-medium"
                   >
-                    qian.yuan@university.edu
+                    qyuan@tamu.edu
                   </a>
                 </div>
                 
@@ -258,10 +258,10 @@ export default function JoinUs() {
                     Please include your CV, research statement, and relevant publications.
                   </p>
                   <a
-                    href="mailto:qian.yuan@university.edu?subject=Postdoc Application"
+                    href="mailto:qyuan@tamu.edu?subject=Postdoc Application"
                     className="text-blue-400 hover:text-blue-300 font-medium"
                   >
-                    qian.yuan@university.edu
+                    qyuan@tamu.edu
                   </a>
                 </div>
               </div>
