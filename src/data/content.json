@@ -459,30 +459,23 @@
       "upcomingEventsTitle": "Upcoming Events",
       "upcomingEvents": [
         {
-          "title": "AGU Fall Meeting 2024",
-          "date": "December 9-13, 2024",
-          "location": "San Francisco, CA",
+          "title": "AGU Fall Meeting 2025",
+          "date": "December 15-19, 2025",
+          "location": "New Orleans, Louisiana",
           "description": "Team members will present latest research findings",
           "type": "Conference"
         },
         {
-          "title": "Goldschmidt Conference 2024",
-          "date": "August 18-23, 2024",
-          "location": "Chicago, IL",
-          "description": "Geochemistry and isotope research presentations",
+          "title": "Goldschmidt Conference 2026",
+          "date": "July 12-17, 2026",
+          "location": "Montreal, Canada",
+          "description": "This will be the first time we attend Goldschmidt",
           "type": "Conference"
         },
         {
-          "title": "Public Lecture: Earth's Hidden Mysteries",
-          "date": "May 15, 2024",
-          "location": "University Auditorium",
-          "description": "Dr. Yuan presents to the general public",
-          "type": "Outreach"
-        },
-        {
-          "title": "Summer Research Program",
-          "date": "June 1 - August 31, 2024",
-          "location": "Our Laboratory",
+          "title": "G&G Summer Program",
+          "date": "August 1 - August 31, 2026",
+          "location": "Texas A&M",
           "description": "Undergraduate research opportunities",
           "type": "Education"
         }
