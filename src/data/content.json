@@ -483,14 +483,14 @@
     },
     "join": {
       "title": "Join Our Research Team",
-      "content": "We are always looking for passionate researchers to join our team and contribute to groundbreaking discoveries in Earth sciences.",
+      "content": "We are always looking for passionate researchers to join our team and contribute to groundbreaking discoveries in Earth and planetary sciences.",
       "whyJoinTitle": "Why Join Our Team?",
       "whyJoinSubtitle": "Be part of cutting-edge research that advances our understanding of Earth's evolution",
       "benefits": [
         {
           "icon": "🔬",
           "title": "Cutting-Edge Research",
-          "description": "Work on fundamental questions about Earth's formation and evolution using state-of-the-art computational and analytical techniques."
+          "description": "Work on fundamental questions about planetary habitibility and evolution using state-of-the-art AI and computational techniques."
         },
         {
           "icon": "🤝",
@@ -515,31 +515,31 @@
         {
           "icon": "🌟",
           "title": "Mentorship",
-          "description": "Receive guidance from experienced researchers committed to your scientific and professional growth."
+          "description": "Receive guidance from renowned researchers across the globe, committed to supporting your scientific and career development."
         }
       ],
       "researchAreasTitle": "Research Areas",
       "researchAreasSubtitle": "Explore the diverse research opportunities available in our group",
       "researchAreas": [
         {
-          "title": "Computational Geodynamics",
-          "description": "Numerical modeling of mantle convection, plate tectonics, and planetary evolution",
-          "skills": ["Programming", "Numerical Methods", "High-Performance Computing"]
+          "title": "AI+Geodynamics",
+          "description": "Leveraging AI-powered geodynamics to explore mantle dynamics and unlock the secrets of planetary diversity and habitability.",
+          "skills": ["AI/ML", "Numerical Methods", "High-Performance Computing"]
         },
         {
-          "title": "Isotope Geochemistry",
-          "description": "Chemical analysis of rocks and minerals to understand Earth's evolution",
-          "skills": ["Mass Spectrometry", "Sample Preparation", "Data Analysis"]
+          "title": "Mars Dynamics",
+          "description": "Numerically model how Martian mantle convection links to surface geology and Mars’s divergence from Earth.",
+          "skills": ["Mars", "Insight", "dichotomy"]
         },
         {
-          "title": "Seismic Tomography",
-          "description": "Imaging Earth's interior structure using seismic waves",
-          "skills": ["Signal Processing", "Inverse Theory", "Data Visualization"]
+          "title": "Moon-forming Giant Impact",
+          "description": "Understanding the evidence and long-term consequences of the giant impact of Earth.",
+          "skills": ["giant impact", "Moon", "magma"]
         },
         {
-          "title": "Experimental Petrology",
-          "description": "High-pressure experiments to understand deep Earth processes",
-          "skills": ["Laboratory Techniques", "Microscopy", "Mineral Physics"]
+          "title": "Mantle Heterogeneities",
+          "description": "Understanding the origin and dyanmic evolution of mantle heterogeneities",
+          "skills": ["convection", "LLSVP", "ULVZ"]
         }
       ],
       "positionsTitle": "Open Positions",
@@ -547,20 +547,21 @@
       "positions": [
         {
           "id": 1,
-          "title": "PhD Student in Geophysics",
+          "title": "2-3 PhD Student in Geophysics",
           "type": "Graduate Student",
-          "department": "Earth Sciences",
-          "deadline": "January 15, 2025",
-          "description": "We are seeking a motivated PhD student to work on computational modeling of mantle convection and early Earth evolution. The successful candidate will develop numerical models to understand the formation and evolution of Large Low Shear Velocity Provinces (LLSVPs).",
+          "department": "Geology and Geophysics",
+          "deadline": "December 1, 2025",
+          "description": "We are seeking a highly motivated PhD student to apply AI/ML techniques to computational modeling of mantle convection and the early evolution of Earth and other planets. The position will be based at Texas A&M University (TAMU), which hosts some of the best GPU computing resources in the nation, providing unparalleled opportunities for high-performance simulations and AI-driven research. In addition to outstanding computational infrastructure, TAMU offers a competitive stipend and benefits package, while the College Station area is known for its affordable cost of living and welcoming community. This unique combination of resources, support, and environment makes TAMU an ideal place to pursue cutting-edge research in planetary geodynamics and AI-powered Earth sciences.",
           "requirements": [
+            "Strong interest in AI/ML technique",
             "Bachelor's degree in Geophysics, Physics, Mathematics, or related field",
             "Strong background in mathematics and physics",
             "Programming experience (Python, MATLAB, or similar)",
-            "Interest in computational geodynamics",
             "Excellent written and verbal communication skills"
           ],
           "benefits": [
             "Full funding including tuition and stipend",
+            "Access to state-of-the-art GPU resources",
             "Access to high-performance computing resources",
             "Opportunities for conference presentations",
             "Collaborative research environment",
@@ -570,15 +571,14 @@
         },
         {
           "id": 2,
-          "title": "Postdoctoral Researcher in Geochemistry",
+          "title": "Postdoctoral Researcher in AI-driven geodynamics",
           "type": "Postdoc",
-          "department": "Earth Sciences",
+          "department": "Geology and Geophysics",
           "deadline": "Rolling Basis",
-          "description": "We invite applications for a postdoctoral position focused on isotope geochemistry and early Earth processes. The researcher will work on understanding the chemical evolution of Earth's mantle through isotopic analysis of ancient rocks and minerals.",
+          "description": "We invite applications for a postdoctoral position focused on AI-driven geodynamics. The postdoctoral scholar will work primarily with Prof. Qian Yuan to combine cutting-edge machine learning algorithms – both data-driven and physics-based – with mantle convection to understand planetary evolution and habitability.",
           "requirements": [
-            "PhD in Geochemistry, Earth Sciences, or related field",
-            "Experience with mass spectrometry and isotope analysis",
-            "Knowledge of early Earth processes",
+            "PhD in Geodynamics, Earth and planetary sciences, Applied and computational mathematics, Physics, and Engineering",
+            "Experience with neural operators or PINNs (Physics-Informed Neural Networks)",
             "Strong publication record",
             "Ability to work independently and collaboratively"
           ],
@@ -595,9 +595,9 @@
           "id": 3,
           "title": "Undergraduate Research Assistant",
           "type": "Undergraduate",
-          "department": "Earth Sciences",
+          "department": "Geology and Geophysics",
           "deadline": "Ongoing",
-          "description": "Undergraduate students interested in Earth sciences research are encouraged to apply for research assistant positions. Students will gain hands-on experience in laboratory techniques, data analysis, and scientific research.",
+          "description": "Undergraduate students interested in Earth and planetary sciences research are encouraged to apply for research assistant positions. Students will gain hands-on experience in laboratory techniques, data analysis, and scientific research.",
           "requirements": [
             "Currently enrolled undergraduate student",
             "Major in Earth Sciences, Physics, Chemistry, or related field",
@@ -640,7 +640,7 @@
         }
       ],
       "contactTitle": "Ready to Join Us?",
-    "contactSubtitle": "We're always interested in hearing from motivated individuals who share our passion for understanding Earth's evolution.",
+    "contactSubtitle": "We're always interested in hearing from motivated individuals who share our passion for understanding the origin of planetary habitibility.",
     "opportunities": [
       {
         "position": "PhD Students",
@@ -652,9 +652,9 @@
       }
     ],
     "contact": {
-      "email": "qian.yuan@university.edu",
-      "office": "Department of Earth Sciences, Room 123",
-      "phone": "+1 (555) 123-4567"
+      "email": "qyuan@tamu.edu",
+      "office": "Department of Geology and Geophysics, Halbouty, Room 361",
+      "phone": "+1 (602) 756-9578"
     }
   }
  },
