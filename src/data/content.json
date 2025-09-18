@@ -393,97 +393,67 @@
           "id": 1,
           "title": "New Research Published in Nature Geoscience",
           "category": "Publication",
-          "date": "March 15, 2024",
+          "date": "September 12, 2025",
           "excerpt": "Our latest study on the giant impact origin of Large Low Shear Velocity Provinces has been published in Nature Geoscience, providing new insights into Earth's early bombardment history.",
-          "content": "This groundbreaking research presents compelling evidence that the mysterious Large Low Shear Velocity Provinces (LLSVPs) in Earth's lower mantle may be remnants of ancient giant impact events. Using advanced numerical modeling and seismic analysis, our team has demonstrated how impact-generated material could have settled in the lower mantle and persisted for billions of years.\n\nThe study employed high-resolution 3D numerical simulations to model the aftermath of giant impacts during Earth's early formation period, approximately 4.5 billion years ago. These simulations revealed that impact-generated material, enriched in iron and other heavy elements, would naturally segregate and accumulate in specific regions of the lower mantle due to gravitational settling and thermal convection patterns.\n\nOur research team collaborated with seismologists from multiple institutions to compare our computational predictions with observed seismic data from global monitoring networks. The correlation between our modeled structures and the actual locations and properties of LLSVPs provides strong support for the giant impact hypothesis.\n\nThis work has significant implications for understanding not only Earth's early evolution but also the formation processes of other terrestrial planets. The findings suggest that giant impacts played a more crucial role in shaping planetary interiors than previously recognized, potentially influencing magnetic field generation, volcanism patterns, and long-term geological evolution.",
+          "content": "Deep inside Earth, scientists have long puzzled over two giant mysterious regions above the planet’s core known as “large low shear-wave velocity provinces” (LLSVPs), along with smaller patches called “ultra-low velocity zones” (ULVZs). These regions look very different from the rest of the mantle in seismic images, but their origin has remained unclear. Our new research suggests they may have formed from an ancient “basal magma ocean” at the bottom of Earth’s mantle, which was gradually mixed with material exsolved from the core. This process, which we call a “basal exsolution contaminated magma ocean” (BECMO), prevented the buildup of unrealistic iron-rich layers and instead produced mantle structures that match what seismologists observe today. Computer models show that solidified BECMO material could explain both the vast LLSVPs and the smaller ULVZs. The BECMO also carries distinctive chemical signals—such as silicon, tungsten, and helium isotopes—that are often detected in volcanic rocks at ocean islands like Hawaii and Iceland. This means the same process may connect Earth’s deepest mantle to the volcanic activity we see at the surface, offering a unified explanation for some of the planet’s most enduring geochemical and geophysical mysteries.",
           "keyFindings": [
-            "Numerical models demonstrate how giant impact events during Earth's formation could have created persistent heterogeneities in the lower mantle",
-            "Seismic tomography data shows structural similarities between observed LLSVPs and our impact-generated models",
-            "New insights into the thermal and chemical evolution of Earth's deep interior over geological timescales",
-            "Implications for understanding early Earth bombardment history and planetary formation processes"
+            "Core exsolution suppresses the crystallization of ferropericlase, helping reconcile models of magma ocean solidification with seismic observations.",
+            "Geodynamic modeling shows these processes can produce mantle structures consistent with the anomalies we see in the lowermost mantle.",
+            "This deep reservoir carries isotopic signals (Si, W, He) from the core — possibly explaining certain ocean island basalt sources.",
+            "The framework has implications for other planets with long-lived basal magma oceans and core–mantle interactions."
           ],
-          "image": "https://lh3.googleusercontent.com/d/1qfF1HqHUhUht4YzD1y0sZk9teORtbTVX",
-          "tags": ["Research", "Publication", "Geophysics"]
+          "image": "https://lh3.googleusercontent.com/d/1KB0_2JJYhfITFOZK5wYGB2iADOQb57tX",
+          "tags": ["Magma ocean", "LLSVPs", "core-mantle interaction"]
         },
         {
           "id": 2,
-          "title": "Dr. Yuan Receives NSF CAREER Award",
-          "category": "Award",
-          "date": "February 28, 2024",
-          "excerpt": "Principal Investigator Dr. Qian Yuan has been awarded the prestigious NSF CAREER Award for research on early Earth evolution and mantle dynamics.",
-          "content": "The National Science Foundation CAREER Award recognizes early-career faculty who have the potential to serve as academic role models in research and education. This five-year, $500,000 award will support Dr. Yuan's research on understanding the formation and evolution of Earth's deep structure through the integration of geophysical modeling and geochemical analysis.\n\nThe CAREER Award proposal, titled 'Deciphering Earth's Early Evolution Through Integrated Geophysical and Geochemical Modeling,' outlines an ambitious research program that will combine cutting-edge computational techniques with laboratory experiments and field observations. The project aims to reconstruct the conditions and processes that shaped our planet during its first billion years of existence.\n\nA significant component of the award includes educational outreach activities designed to engage undergraduate students, particularly those from underrepresented groups, in Earth science research. Dr. Yuan plans to develop new curriculum modules that incorporate real research data and computational tools, providing students with hands-on experience in modern geophysical research methods.\n\nThe research will also establish new collaborations with international institutions and provide training opportunities for graduate students and postdoctoral researchers. The interdisciplinary nature of the project will foster connections between geophysics, geochemistry, and planetary science communities, advancing our understanding of terrestrial planet formation and evolution.",
-          "keyFindings": [
-            "Recognition of Dr. Yuan's innovative approach to integrating computational geophysics with geochemical constraints",
-            "Funding secured for five years of cutting-edge research on early Earth evolution",
-            "Educational component will train next generation of Earth scientists in interdisciplinary research methods",
-            "International collaborations established to advance understanding of planetary formation processes"
-          ],
-          "image": "https://images.unsplash.com/photo-1614313913007-2b4ae8ce32d6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-          "tags": ["Award", "Funding", "Recognition"]
+          "title": "Dr. Yuan started his new position as an assistant professor at Texas A&M",
+          "category": "Career",
+          "date": "July 1, 2025",
+          "excerpt": "Principal Investigator Dr. Qian Yuan",
+          "content": "Dr. Yuan completed his O.K. Earl Postdoc research at Caltech before joining the Department of Geology and Geophysics at Texas A&M University, where he established the IMPACT Lab—Intelligent Modeling of Planetary Accretion, Convection, and Tectonics. He is also a core member of the Research in Artificial Intelligence for Science and Engineering (RAISE) Initiative at Texas A&M. The IMPACT Lab seeks to uncover how initial conditions, mantle dynamics, and geochemical differentiation shape Earth and other planets. By integrating cutting-edge AI/ML approaches with interdisciplinary geophysical and geochemical models, the lab aims to address fundamental questions about planetary formation, interior evolution, and long-term habitability.",
+          "image": "https://lh3.googleusercontent.com/d/1zjrLGxiazJBGzWL2Z2pEiNfrHOJohDHx",
+          "tags": ["Tenure-track faculty", "Career", "IMPACT-lab"]
         },
         {
           "id": 3,
-          "title": "New Collaboration with Stanford University",
+          "title": "Invited presentation at University of Chicago",
           "category": "Collaboration",
-          "date": "February 10, 2024",
-          "excerpt": "We are excited to announce a new research collaboration with Stanford University's Department of Geophysics to study subduction initiation processes.",
-          "content": "This collaboration brings together expertise in computational geodynamics and seismic tomography to investigate the mechanisms that trigger the onset of subduction. The partnership will involve joint field work, shared computational resources, and student exchange programs.\n\nThe three-year collaborative project, funded by a joint NSF grant, focuses on understanding the complex processes that lead to the formation of new subduction zones. By combining our group's expertise in numerical modeling with Stanford's advanced seismic imaging capabilities, we aim to develop a comprehensive framework for predicting where and when new subduction zones might form.\n\nThe collaboration includes access to Stanford's high-performance computing facilities and their extensive seismic database covering the Pacific Ring of Fire. Our team will contribute advanced thermochemical modeling techniques and expertise in mantle dynamics to create more realistic simulations of subduction initiation scenarios.\n\nStudent exchange programs will allow graduate students from both institutions to gain experience with different research methodologies and analytical techniques. This cross-training approach will prepare the next generation of geophysicists to tackle complex, interdisciplinary problems in Earth science.",
+          "date": "Janunary, 2025",
+          "excerpt": "We are excited to announce a new research collaboration with xx University's .",
+          "content": "Dr. Yuan was honored to be invited to deliver a departmental colloquium at the University of Chicago. Among the distinguished audience members was Nobel laureate Jack Szostak, renowned for his pioneering contributions to our understanding of the origin of life. Before the lecture, Dr. Yuan had the rare opportunity to engage in an extended and thought-provoking discussion with Professor Szostak, exploring how his own findings on planetary dynamics and early Earth processes may provide new perspectives on prebiotic chemistry and the conditions that made life possible. This exchange underscored the interdisciplinary significance of Dr. Yuan’s work, bridging planetary science, geodynamics, and questions at the very heart of biology.",
           "keyFindings": [
-            "Joint research initiative combining computational geodynamics with seismic tomography expertise",
-            "Access to Stanford's high-performance computing facilities and Pacific Ring of Fire seismic database",
-            "Student exchange programs fostering interdisciplinary training in modern geophysical methods",
-            "Development of new predictive frameworks for subduction zone formation and evolution"
+            "Interdisciplinary relevance – Dr. Yuan’s research on planetary dynamics and early Earth processes offers new insights that connect geophysics with prebiotic chemistry, helping to frame conditions under which life could emerge."
           ],
-          "image": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-          "tags": ["Collaboration", "Partnership", "Research"]
+          "image": "https://lh3.googleusercontent.com/d/1pub6krwlT8nshBactS1_yxRmiVFEiVkB",
+          "tags": ["Collaboration", "Origin", "Research"]
         },
         {
           "id": 4,
-          "title": "Graduate Student Wins Best Poster Award",
-          "category": "Achievement",
-          "date": "January 22, 2024",
-          "excerpt": "PhD student Michael Chen received the Best Poster Award at the American Geophysical Union Fall Meeting for his work on mantle convection modeling.",
-          "content": "Michael's poster presentation on 'High-Resolution Modeling of Mantle Convection with Compositional Heterogeneities' impressed judges with its innovative approach to understanding how chemical variations in the mantle affect convection patterns. This research has important implications for understanding the long-term evolution of Earth's interior.\n\nThe award-winning research employed state-of-the-art computational techniques to model mantle convection at unprecedented resolution, incorporating realistic compositional variations based on geochemical observations. Michael's work revealed how small-scale chemical heterogeneities can significantly influence large-scale convection patterns and heat transfer in the mantle.\n\nThe study utilized over 2 million CPU hours on national supercomputing facilities to run high-resolution 3D simulations spanning billions of years of Earth's evolution. The results provide new insights into how the mantle's chemical structure has evolved over geological time and how it continues to influence surface processes today.\n\nMichael's presentation stood out among over 500 poster presentations in the geodynamics section, earning recognition for both its scientific rigor and clear communication of complex concepts. The research has already attracted interest from several international research groups and is being prepared for publication in a high-impact journal.",
+          "title": "Featured in Science Magazine",
+          "category": "Media",
+          "date": "July, 2024",
+          "excerpt": "Our research on Earth's early evolution will be featured in an upcoming National Geographic documentary about the formation of our planet.",
+          "content": "Dr. Qian Yuan was interviewed by Science magazine for the article, Ancient crystals point to a surprisingly early start for plate tectonics. In the piece, he offered expert commentary on how these new findings fit into the broader debate about the onset of plate tectonics and the thermal and chemical evolution of the early Earth. His perspective highlighted both the strengths of the new evidence and the challenges of interpreting ancient signals from Earth’s formative history.",
           "keyFindings": [
-            "High-resolution 3D simulations reveal how compositional heterogeneities influence mantle convection patterns",
-            "New computational techniques enable modeling of mantle evolution over billion-year timescales",
-            "Small-scale chemical variations shown to have significant impact on large-scale heat transfer processes",
-            "Research provides new framework for understanding mantle-surface interactions throughout Earth's history"
+            "While the zircon evidence is intriguing, it must be tested against geodynamic models to confirm whether Earth’s mantle could have sustained plate tectonics so early"
           ],
-          "image": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-          "tags": ["Student", "Award", "Conference"]
+          "image": "https://lh3.googleusercontent.com/d/12RLeszAqwhXoIxhKTruSYXO44PkAhM9j",
+          "tags": ["Media", "Science", "Outreach"]
         },
         {
           "id": 5,
-          "title": "Featured in National Geographic Documentary",
-          "category": "Media",
-          "date": "January 8, 2024",
-          "excerpt": "Our research on Earth's early evolution will be featured in an upcoming National Geographic documentary about the formation of our planet.",
-          "content": "The documentary, titled 'Birth of a Planet,' will showcase our work on giant impacts and their role in shaping Earth's structure. Filming included interviews with team members and visualization of our computational models. The documentary is scheduled to air in spring 2024.\n\nThe production team spent three days in our laboratory, capturing both the scientific process and the human stories behind our research. Dr. Yuan and several graduate students were interviewed about their work on modeling the early Earth's bombardment period and its lasting effects on planetary structure.\n\nA highlight of the documentary features cutting-edge visualizations of our computational models, showing how giant impacts during Earth's formation created the deep structural anomalies we observe today. The production team worked closely with our visualization specialists to create scientifically accurate animations that bring billions of years of Earth's evolution to life.\n\nThe documentary aims to make complex geophysical concepts accessible to general audiences while maintaining scientific accuracy. It represents an important opportunity to share our research findings with millions of viewers worldwide and inspire the next generation of Earth scientists.",
-          "keyFindings": [
-            "National Geographic platform provides unprecedented reach for sharing Earth science research with global audiences",
-            "Advanced scientific visualizations make complex geophysical processes accessible to general public",
-            "Documentary showcases real-world applications of computational modeling in understanding planetary formation",
-            "Collaboration demonstrates importance of science communication in advancing public understanding of Earth sciences"
-          ],
-          "image": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-          "tags": ["Media", "Documentary", "Outreach"]
-        },
-        {
-          "id": 6,
-          "title": "New Equipment Enhances Laboratory Capabilities",
+          "title": "Powering Up: Our New NVIDIA GeForce RTX 5080 Has Arrived",
           "category": "Equipment",
-          "date": "December 15, 2023",
+          "date": "July 15, 2025",
           "excerpt": "Installation of a new high-precision mass spectrometer significantly expands our analytical capabilities for isotopic studies.",
-          "content": "The new Thermo Fisher Scientific Neptune Plus MC-ICP-MS enables us to perform ultra-high precision isotopic measurements on small sample sizes. This capability is crucial for our research on early Earth materials and will support multiple ongoing projects in geochemistry and geochronology.\n\nThe installation process required extensive laboratory renovations, including specialized vibration isolation systems and clean room protocols to ensure optimal instrument performance. The instrument features 16 Faraday collectors and multiple ion counters, allowing simultaneous measurement of multiple isotopes with unprecedented precision.\n\nThis new analytical capability opens up exciting research opportunities, particularly in studying ancient zircon crystals and meteorite samples that provide insights into early Earth conditions. The instrument's ability to analyze samples as small as a few nanograms makes it possible to study individual mineral grains and extract detailed isotopic information from precious samples.\n\nThe acquisition was made possible through a combination of NSF funding, university support, and industry partnerships. Training programs for graduate students and postdocs are already underway, ensuring that the next generation of researchers will be proficient in these advanced analytical techniques.",
+          "content": "The arrival of the NVIDIA GeForce RTX 5080 marks a major boost for our AI-powered geodynamics research. Its advanced GPU architecture dramatically accelerates neural network training, enabling us to process vast geophysical datasets and run complex mantle convection simulations more efficiently. This computational power allows us to integrate machine learning with high-resolution geodynamic models, uncovering patterns and predictions that were previously out of reach. Looking ahead, we plan to acquire 10 NVIDIA H100 GPUs in the coming months, which will further expand our ability to push the frontier of AI-driven Earth and planetary science.",
           "keyFindings": [
-            "Ultra-high precision isotopic measurements now possible on nanogram-scale samples",
-            "Enhanced capabilities for studying ancient zircon crystals and meteorite samples",
-            "Simultaneous multi-isotope analysis significantly improves research efficiency and data quality",
-            "New training programs established to develop expertise in advanced analytical geochemistry"
+            "Enhanced AI capabilities – The new NVIDIA GeForce RTX 5080 accelerates neural network training and high-resolution geodynamic simulations, enabling faster and more advanced AI-powered research.",
+            "Scaling up resources – The planned purchase of 10 NVIDIA H100 GPUs will significantly expand computational capacity, positioning the lab to tackle larger datasets and more complex planetary science problems."
           ],
-          "image": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-          "tags": ["Equipment", "Laboratory", "Technology"]
+          "image": "https://lh3.googleusercontent.com/d/1d4ldi2ZquYd8uCx-gICpZ6XyIzZ10-PE",
+          "tags": ["NVIDIA", "GPU", "AI/ML"]
         }
       ],
       "upcomingEventsTitle": "Upcoming Events",
