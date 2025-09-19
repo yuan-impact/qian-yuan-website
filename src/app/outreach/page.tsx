@@ -40,7 +40,9 @@ export default function Outreach() {
               <div key={index} className="bg-slate-800 rounded-2xl border border-slate-700 overflow-hidden hover:border-blue-500/50 transition-all duration-300 group">
                 {/* Program Image */}
                 <div className="aspect-video bg-gradient-to-br from-blue-900/20 to-cyan-900/20 flex items-center justify-center">
-                  <div className="text-6xl opacity-50">🌍</div>
+                  <div className="text-6xl opacity-50">
+			<img src={program.image} alt="" />
+                  </div>
                 </div>
 
                 {/* Program Info */}
