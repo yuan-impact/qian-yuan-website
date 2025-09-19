@@ -69,17 +69,20 @@ export default function Outreach() {
                       <div className="text-white font-medium text-sm">{program.participants}</div>
                     </div>
                   </div>
-
-                  {/* Additional Program Details */}
-                  <div className="mt-4 p-4 bg-slate-700/50 rounded-lg">
-                    <h4 className="text-white font-semibold mb-2">Program Highlights</h4>
-                    <ul className="text-gray-300 text-sm space-y-1">
-                      <li>• Interactive hands-on activities and demonstrations</li>
-                      <li>• Age-appropriate curriculum aligned with educational standards</li>
-                      <li>• Professional development opportunities for educators</li>
-                      <li>• Take-home materials and resources for continued learning</li>
-                    </ul>
-                  </div>
+		
+		{/* Additional Program Details */}
+                  {program.list && (
+                    <div className="mt-4 p-4 bg-slate-700/50 rounded-lg">
+                      <h4 className="text-white font-semibold mb-2">
+                        {program.list.title}
+                      </h4>
+                      <ul className="text-gray-300 text-sm space-y-1">
+                        {program.list.items.map((i, iIndex) => (
+                          <li key={iIndex}>• {i}</li>
+                        ))}
+                      </ul>
+                    </div>
+                  )}
                 </div>
               </div>
             ))}
