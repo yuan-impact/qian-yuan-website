@@ -294,7 +294,11 @@
           "audience": "K-10 or 11 Students",
           "frequency": "Daily",
           "participants": "10+ students annually",
-          "image": "https://lh3.googleusercontent.com/d/1y9NAA-qwB6VQqFPrrnIGeOQUoFBcHJdr"
+          "image": "https://lh3.googleusercontent.com/d/1y9NAA-qwB6VQqFPrrnIGeOQUoFBcHJdr",
+	  "list": {
+            "title": "标题1",
+            "items": ["列表项11", "列表项22"]
+          } 
         },
         {
           "title": "Interview at Science",
@@ -302,7 +306,11 @@
           "audience": "General Public",
           "frequency": "1-2/year",
           "participants": "2M+ readers",
-          "image": "https://lh3.googleusercontent.com/d/17XX211PPhodmyvtOCzjJWBlySnSEWrgB"
+          "image": "https://lh3.googleusercontent.com/d/17XX211PPhodmyvtOCzjJWBlySnSEWrgB",
+	  "list": {
+            "title": "标题1",
+            "items": ["列表项11", "列表项22"]
+          } 
         },
         {
           "title": "Interviewed by Nature",
@@ -310,7 +318,11 @@
           "audience": "General Public",
           "frequency": "2023",
           "participants": "3M+ readers",
-          "image": "https://lh3.googleusercontent.com/d/1wptkNsPTYLotNhXUHqASZi0db2cKUhuC"
+          "image": "https://lh3.googleusercontent.com/d/1wptkNsPTYLotNhXUHqASZi0db2cKUhuC",
+	  "list": {
+            "title": "标题1",
+            "items": ["列表项11", "列表项22"]
+          } 
         },
         {
           "title": "Guest Lecture for Schools",
@@ -318,7 +330,11 @@
           "audience": "High school students",
           "frequency": "2023",
           "participants": "200+ students",
-          "image": "https://lh3.googleusercontent.com/d/1UUCUl_p6wUAG0c24yafk_vOec1fnuRll"
+          "image": "https://lh3.googleusercontent.com/d/1UUCUl_p6wUAG0c24yafk_vOec1fnuRll",
+	  "list": {
+            "title": "标题1",
+            "items": ["列表项11", "列表项22"]
+          } 
         }
       ],
       "impactTitle": "Our Impact",
