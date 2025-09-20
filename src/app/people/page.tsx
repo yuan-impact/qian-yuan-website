@@ -85,7 +85,7 @@ export default function People() {
 		{/* Insert CV here */}
 		{member.cv && (
                     <>
-                      {/* <span className="mx-2 text-gray-400">·</span> */}
+                      <span className="mx-2 text-blue-400">·</span> 
                       <a
 			href={member.cv}
                         className= "inline-flex items-center text-blue-400 hover:text-blue-300 text-sm font-medium transition-colors"
