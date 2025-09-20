@@ -20,7 +20,7 @@ const spaceGrotesk = Space_Grotesk({
 
 export const metadata: Metadata = {
   title: {
-    default: "Dr. Qian Yuan - Earth Sciences Research",
+    default: "Dr. Qian Yuan - Geodynamics of Earth & Planets",
     template: "%s | Dr. Qian Yuan"
   },
   description: "Exploring Earth's evolution through computational geodynamics, geochemistry, and planetary science research. Leading research in mantle dynamics, giant impacts, and early Earth processes.",
