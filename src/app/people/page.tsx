@@ -87,7 +87,7 @@ export default function People() {
                     <>
                       <span className="mx-2 text-gray-400">·</span>
                       <a
-			href=member.cv
+			href={member.cv}
                         class= "inline-flex items-center text-blue-400 hover:text-blue-300 text-sm font-medium transition-colors"
                         target="_blank"
                         rel="noopener noreferrer"
