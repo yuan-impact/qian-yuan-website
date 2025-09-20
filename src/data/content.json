@@ -169,7 +169,8 @@
           "image": "https://lh3.googleusercontent.com/d/15Hi7z0WLfhuZdrcpOH6_ylKGMAYC-9QZ",
           "bio": "Dr. Yuan is a computational geodynamicist exploring how planetary interiors shape habitability.",
           "expertise": ["Computational geodynamics", "Planetary Science", "AI/ML"],
-          "email": "qyuan@tamu.edu"
+          "email": "qyuan@tamu.edu",
+	  "CV": "https://drive.google.com/file/d/1v_vkg6nuXcD9dEvD2dGDOgxq0eWLjI7g/view?usp=drive_link"
         },
         {
           "name": "Dr. Mingqi Liu",
