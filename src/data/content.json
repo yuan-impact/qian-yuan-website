@@ -290,47 +290,35 @@
       "programs": [
         {
           "title": "Caltech Earthquake Fellow Program",
-          "description": "4 month program to understand the science of earthquakes, learn how to measure them, and gain the skills needed to succeed in university settings.",
+          "description": "This intensive 4-month program introduces students to the fundamentals of earthquake science while building essential academic skills for success in university. Participants will: 1) Study how earthquakes work and their impacts. 2) Learn to measure and analyze seismic data. 3)Build research and academic skills for success in higher education.",
           "audience": "K-10 or 11 Students",
           "frequency": "Daily",
           "participants": "10+ students annually",
-          "image": "https://lh3.googleusercontent.com/d/1y9NAA-qwB6VQqFPrrnIGeOQUoFBcHJdr",
-	  "list": {
-            "title": "标题1",
-            "items": ["列表项11", "列表项22"]
-          } 
+          "image": "https://lh3.googleusercontent.com/d/1y9NAA-qwB6VQqFPrrnIGeOQUoFBcHJdr"
         },
         {
-          "title": "Interview at Science",
-          "description": "Requested to share insights on recent major discovery of a solid inner core and large-scale heterogeneties in Mars.",
+          "title": "Science Interview: Mar's Deep Secrets",
+          "description": "Dr. Yuan was recently featured in Science discussing groundbreaking new insights into Mars’s interior from InSight mission data, including the discovery of a solid inner core and large-scale heterogeneities. Together with colleagues worldwide, they discussed the knowns, unknowns, and conflicting interpretations of the Martian interior, while offering future perspectives on the Red Planet’s evolution, magnetic history, and long-term habitability.",
           "audience": "General Public",
           "frequency": "1-2/year",
           "participants": "2M+ readers",
           "image": "https://lh3.googleusercontent.com/d/17XX211PPhodmyvtOCzjJWBlySnSEWrgB"
         },
         {
-          "title": "Interviewed by Nature",
-          "description": "Nature journalist Anil Oza conducted an in-depth interview on our Giant Impact remnant study.",
+          "title": "Nature Interview: Giant Impact Remnant",
+          "description": "Dr. Yuan’s study was spotlighted by Nature, which reported that giant mantle ‘blobs’ may be remnants of the Moon-forming impact with Theia 4.5 billion years ago. Experts noted that this research elevates a previously imaginative notion to a new level of seriousness, offering fresh perspectives on the connection between Earth’s deep interior and the Moon’s origin.",
           "audience": "General Public",
           "frequency": "2023",
           "participants": "3M+ readers",
-          "image": "https://lh3.googleusercontent.com/d/1wptkNsPTYLotNhXUHqASZi0db2cKUhuC",
-	  "list": {
-            "title": "标题1",
-            "items": ["列表项11", "列表项22"]
-          } 
+          "image": "https://lh3.googleusercontent.com/d/1wptkNsPTYLotNhXUHqASZi0db2cKUhuC"
         },
         {
-          "title": "Guest Lecture for Schools",
-          "description": "Invited lecture at the Granada Hills High School, the largest in Los Angeles.",
+          "title": "Guest Lecture at the Largest High School",
+          "description": "Dr. Yuan was invited to give a lecture at Granada Hills Charter High School, the largest high school in Los Angeles with more than 5,000 students. The event sparked tremendous engagement—students asked thoughtful questions about Earth and planetary science, and afterward Dr. Yuan was touched to receive dozens of thank-you letters, heartfelt tokens of their excitement and curiosity. The experience highlighted the strong interest among young learners in Earth and planetary exploration.",
           "audience": "High school students",
           "frequency": "2023",
           "participants": "200+ students",
-          "image": "https://lh3.googleusercontent.com/d/1UUCUl_p6wUAG0c24yafk_vOec1fnuRll",
-	  "list": {
-            "title": "标题1",
-            "items": ["列表项11", "列表项22"]
-          } 
+          "image": "https://lh3.googleusercontent.com/d/1UUCUl_p6wUAG0c24yafk_vOec1fnuRll"
         }
       ],
       "impactTitle": "Our Impact",
