@@ -76,9 +76,9 @@ export default function Outreach() {
                       <h4 className="text-white font-semibold mb-2">
                         {program.list.title}
                       </h4>
-                      <ul className="text-gray-300 text-sm space-y-1">
-                        {program.list.items.map((i, iIndex) => (
-                          <li key={iIndex}>• {i}</li>
+                      <ul className="list-disc list-inside text-gray-300 text-sm space-y-1">
+                        {program.list?.items?.map((item: string, iIndex: number) => (
+                          <li key={iIndex}>{item}</li>
                         ))}
                       </ul>
                     </div>
