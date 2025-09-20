@@ -306,11 +306,7 @@
           "audience": "General Public",
           "frequency": "1-2/year",
           "participants": "2M+ readers",
-          "image": "https://lh3.googleusercontent.com/d/17XX211PPhodmyvtOCzjJWBlySnSEWrgB",
-	  "list": {
-            "title": "标题1",
-            "items": ["列表项11", "列表项22"]
-          } 
+          "image": "https://lh3.googleusercontent.com/d/17XX211PPhodmyvtOCzjJWBlySnSEWrgB"
         },
         {
           "title": "Interviewed by Nature",
