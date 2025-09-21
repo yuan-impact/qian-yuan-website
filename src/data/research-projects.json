@@ -55,7 +55,15 @@
         "content": "We show that the machine learning framework accelerates coupled geodynamic-geochemical modeling by more than 100-fold. The approach paves the way for integrating large-scale 2D and 3D geodynamic and geochemical modeling studies across a broader range of model parameters and at larger spatial and temporal scales than previously possible."
       }
     ],
-    "publications": [],
+    "publications": [
+	{
+        "title": "Enabling large-scale geodynamic-geochemical modeling via neural network acceleration",
+        "authors": "Yuan, Q., Asimow, P. D., Gurnis, M., & Antoshechkina, P. M.",
+        "journal": "AGU",
+        "year": "2024",
+        "doi": "https://ui.adsabs.harvard.edu/abs/2024AGUFMV41E.3161Y/abstract"
+        }
+     ],
     "images": [
       {
         "src": "https://lh3.googleusercontent.com/d/1NEHOiL6L-TaGmoUptOUht3G6h_5UBEeF",
@@ -100,6 +108,20 @@
         "journal": "Nature Geoscience",
         "year": "2022",
         "doi": "https://doi.org/10.1038/s41561-022-00908-3"
+          },
+	{ 
+        "title": "Vastly different heights of LLVPs caused by different strengths of historical slab push",
+        "authors": "Yuan, Q., Li, M.M.",
+        "journal": "Geophysical Research Letters",
+        "year": "2022",
+        "doi": "https://doi.org/10.1029/2022GL099564"
+          },
+	{ 
+        "title": "Deep mantle heterogeneities formed through a basal magma ocean contaminated by core exsolution",
+        "authors": "Deng, J., Miyazaki, Y., Yuan, Q., & Du, Z",
+        "journal": "Nature Geoscience",
+        "year": "2025",
+        "doi": "https://doi.org/10.1038/s41561-025-01797-y"
           }
 	],
     "images": [
