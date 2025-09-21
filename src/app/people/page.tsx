@@ -192,7 +192,7 @@ export default function People() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link
-              href="/join"
+              href="/join-us"
               className="btn-primary px-8 py-4 rounded-lg font-semibold text-white hover:shadow-lg transition-all duration-300"
             >
               View Opportunities
