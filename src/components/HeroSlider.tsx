@@ -88,12 +88,16 @@ const HeroSlider = () => {
               </p>
               
               <div ref={buttonsRef} className="flex flex-col sm:flex-row gap-4 opacity-0">
-                <button className="btn-primary px-8 py-4 rounded-lg font-semibold text-white hover:shadow-lg transition-all duration-300 cursor-pointer">
+		<a
+		    href="/research"
+                    className="btn-primary px-8 py-4 rounded-lg font-semibold text-white hover:shadow-lg transition-all duration-300 cursor-pointer">
                   Explore Research
-                </button>
-                <button className="px-8 py-4 rounded-lg font-semibold text-white border-2 border-white/30 hover:border-blue-400 hover:text-blue-400 transition-all duration-300 cursor-pointer">
+                </a> 
+		<a
+		    href="/research/giant-impact"
+                    className="px-8 py-4 rounded-lg font-semibold text-white border-2 border-white/30 hover:border-blue-400 hover:text-blue-400 transition-all duration-300 cursor-pointer">
                   View Publications
-                </button>
+                </a>
               </div>
             </div>
           </div>

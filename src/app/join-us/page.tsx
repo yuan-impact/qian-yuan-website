@@ -252,7 +252,7 @@ export default function JoinUs() {
                 
                 <div className="text-left">
                   <h3 className="text-lg font-semibold text-white mb-4">
-                    For Postdocs & Collaborators
+                    For Postdocs & Visiting Scholars
                   </h3>
                   <p className="text-gray-300 mb-4">
                     Please include your CV, research statement, and relevant publications.

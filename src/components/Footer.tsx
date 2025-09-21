@@ -21,7 +21,7 @@ const Footer = () => {
             </p>
             <div className="mt-6">
               <p className="text-gray-500 text-xs">
-                Research in Earth Sciences • Academic Excellence • Scientific Innovation
+                Computational Earth and Planetary Sciences • Scientific Innovation
               </p>
             </div>
           </div>
