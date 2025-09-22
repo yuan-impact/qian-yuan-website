@@ -134,7 +134,7 @@ export default function Home() {
                 View Research
               </Link>
               <Link
-                href="/join"
+                href="/join-us"
                 className="px-8 py-4 rounded-lg font-semibold text-white border-2 border-white/30 hover:border-blue-400 hover:text-blue-400 transition-all duration-300"
               >
                 Join Our Team
