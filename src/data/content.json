@@ -191,13 +191,13 @@
           "email": "suryadonath@gmail.com"
         },
         {
-          "name": "PhD Student (Position Available)",
-          "title": "PhD Student",
-          "affiliation": "Graduate Program in Geophysics",
-          "image": "https://lh3.googleusercontent.com/d/1o4_IyBBYwqugvLHwuotwwoH1WRziDUQB",
-          "bio": "Open position — apply now! Reach out to the PI.",
+          "name": "Daniel Sun",
+          "title": "Undergraduate",
+          "affiliation": "Undergraduate Program in Geophysics",
+          "image": "https://lh3.googleusercontent.com/d/1GlX-sDpswHQg596QRsv0fgTFXVqWZHkm",
+          "bio": "Daniel is a geology junior passionate about leveraging the Fourier Neural Operator to accelerate and enhance mantle convection simulations.",
           "expertise": ["AI/ML", "Computational Modeling"],
-          "email": "tbd@university.edu"
+          "email": "danielrsun@tamu.edu"
         },
         {
           "name": "PhD Student (Position Available)",
@@ -216,7 +216,16 @@
           "bio": "Open position — apply now! Reach out to the PI.",
           "expertise": ["AI/ML", "Seismology", "Visualization"],
           "email": "tbd3@university.edu"
-        }
+        },
+        {
+          "name": "PhD Student (Position Available)",
+          "title": "PhD Student",
+          "affiliation": "Graduate Program in Geophysics",
+          "image": "https://lh3.googleusercontent.com/d/1o4_IyBBYwqugvLHwuotwwoH1WRziDUQB",
+          "bio": "Open position — apply now! Reach out to the PI.",
+          "expertise": ["AI/ML", "Computational Modeling"],
+          "email": "tbd2@university.edu"
+        },
       ],
       "researchGroupsTitle": "Research Groups",
       "researchGroupsSubtitle": "Our interdisciplinary approach brings together expertise from multiple fields",
