@@ -206,7 +206,7 @@
           "image": "https://lh3.googleusercontent.com/d/1o4_IyBBYwqugvLHwuotwwoH1WRziDUQB",
           "bio": "Open position — apply now! Reach out to the PI.",
           "expertise": ["AI/ML", "Computational Modeling"],
-          "email": "tbd2@university.edu"
+          "email": "tbd1@university.edu"
         },
         {
           "name": "PhD Student (Position Available)",
@@ -215,7 +215,7 @@
           "image": "https://lh3.googleusercontent.com/d/1phD7WXjmjZqJNX8LGCfRwcl3MEq3IYzV",
           "bio": "Open position — apply now! Reach out to the PI.",
           "expertise": ["AI/ML", "Seismology", "Visualization"],
-          "email": "tbd3@university.edu"
+          "email": "tbd2@university.edu"
         },
         {
           "name": "PhD Student (Position Available)",
@@ -224,8 +224,8 @@
           "image": "https://lh3.googleusercontent.com/d/1o4_IyBBYwqugvLHwuotwwoH1WRziDUQB",
           "bio": "Open position — apply now! Reach out to the PI.",
           "expertise": ["AI/ML", "Computational Modeling"],
-          "email": "tbd2@university.edu"
-        },
+          "email": "tbd3@university.edu"
+        }
       ],
       "researchGroupsTitle": "Research Groups",
       "researchGroupsSubtitle": "Our interdisciplinary approach brings together expertise from multiple fields",
