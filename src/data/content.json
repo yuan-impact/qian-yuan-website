@@ -173,11 +173,20 @@
 	  "cv": "https://drive.google.com/file/d/1v_vkg6nuXcD9dEvD2dGDOgxq0eWLjI7g/view?usp=drive_link"
         },
         {
+          "name": "Dr. Jie Zhang",
+          "title": "Postdoctoral Researcher",
+          "affiliation": "Department of Geology & Geophysics",
+          "image": "https://lh3.googleusercontent.com/d/1hiukca5AkdGeJkxe-8Om__OJi5jNmjss",
+          "bio": "Jie received his Ph.D. from the Southern University of Science and Technology. His previous research used global 3-D mantle convection models with data assimilation to investigate LLVPs and the Hawaiian mantle plume. He is now exploring the deep-mantle origin of the largest large igneous provinces and their potential link to the End-Permian mass extinction.",
+          "expertise": ["Geodynamics", "Data assimilation", "AI/ML"],
+          "email": "jzhang2026@tamu.edu"
+        },
+        {
           "name": "Dr. Mingqi Liu",
           "title": "Postdoctoral Researcher",
           "affiliation": "Department of Geology & Geophysics",
           "image": "https://lh3.googleusercontent.com/d/17IrIMhE7GHBXAAnrqzux_vdOZQrhl7Xl",
-          "bio": "Dr. Liu received his PhD from ETH and completed a two-year postdoctoral fellowship at USC. He is now co-advised by Prof. Benchuan Duan and me. His current research focuses on integrating geodynamic models with seismic cycle simulations to investigate the mechanisms driving Martian seismicity.",
+          "bio": "Mingqi received his PhD from ETH and completed a two-year postdoctoral fellowship at USC. He is now co-advised by Prof. Benchuan Duan and me. His current research focuses on integrating geodynamic models with seismic cycle simulations to investigate the mechanisms driving Martian seismicity.",
           "expertise": ["Geodynamics", "Earthquake simulation", "Geophysics"],
           "email": "mqliu@tamu.edu"
         },
@@ -203,10 +212,10 @@
           "name": "Yuxing Pan",
           "title": "PhD Student",
           "affiliation": "Graduate Program in Geophysics",
-          "image": "https://lh3.googleusercontent.com/d/1o4_IyBBYwqugvLHwuotwwoH1WRziDUQB",
-          "bio": "Open position — apply now! Reach out to the PI.",
+          "image": "https://lh3.googleusercontent.com/d/1yESz-Ci33ACaY3BmXhlQ3oFpCVumD9fx",
+          "bio": "Yuxing received his master’s degree from the Southern University of Science and Technology, where he worked on computational seismology and machine learning. He is now developing an deep-learning framework to automatically identify thermal and thermochemical plumes in mantle convection simulations.",
           "expertise": ["AI/ML", "Computational Modeling"],
-          "email": "tbd1@university.edu"
+          "email": "yuxingpan@tamu.edu"
         },
         {
           "name": "PhD Student (Position Available)",
