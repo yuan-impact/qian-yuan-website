@@ -180,6 +180,7 @@
           "bio": "Jie received his Ph.D. from the Southern University of Science and Technology. His previous research used global 3-D mantle convection models with data assimilation to investigate LLVPs and the Hawaiian mantle plume. He is now exploring the deep-mantle origin of the largest large igneous provinces and their potential link to the End-Permian mass extinction.",
           "expertise": ["Geodynamics", "Data assimilation", "AI/ML"],
           "email": "jzhang2026@tamu.edu"
+	  "cv": "https://drive.google.com/file/d/1yvWFZafZvVJQbCTLBUg-lfN37J3R_x8l/view?usp=sharing"
         },
         {
           "name": "Yuxing Pan",
@@ -189,6 +190,7 @@
           "bio": "Yuxing received his master’s degree from the Southern University of Science and Technology, where he worked on computational seismology and machine learning. He is now developing an deep-learning framework to automatically identify thermal and thermochemical plumes in mantle convection simulations.",
           "expertise": ["AI/ML", "Computational Modeling"],
           "email": "yuxingpan@tamu.edu"
+	  "cv": "https://drive.google.com/file/d/1djXc9dEb55yQ-Jc_ukH7JGqGvUOaFKMU/view?usp=sharing"
         },
         {
           "name": "Zehua Song",
@@ -419,6 +421,16 @@
       "newsItems": [
         {
           "id": 1,
+          "title": "Accelerating Science Through Artificial Intelligence",
+          "category": "Founding",
+          "date": "July 22, 2026",
+          "excerpt": "Our latest study on the giant impact origin of Large Low Shear Velocity Provinces has been published in Nature Geoscience, providing new insights into Earth's early bombardment history.",
+          "content": "We are excited to contribute to a U.S. Department of Energy Genesis Mission Phase I Award, led by Prof. Nicholas Perez at Texas A&M University. I serve as a Co-Investigator on the project. My role is to develop AI-driven geodynamic approaches to investigate how flat-slab subduction during the Laramide orogeny (~80–40 Ma) shaped mantle dynamics and metallogenesis across the southwestern United States, including the Colorado Mineral Belt. In particular, I will couple large-scale mantle convection simulations with machine-learning-based thermodynamic modeling through our recently developed IGyTheM framework, enabling more efficient exploration of links between deep mantle processes, magmatism, and critical mineral formation.",
+          "image": "https://lh3.googleusercontent.com/d/1X6vckcBiljKLy_qD70HJjCtTxCsRPL9m",
+          "tags": ["DOE", "Genesis Mission"]
+        },
+        {
+          "id": 2,
           "title": "New Research Published in Nature Geoscience",
           "category": "Publication",
           "date": "September 12, 2025",
@@ -434,7 +446,7 @@
           "tags": ["Magma ocean", "LLSVPs", "core-mantle interaction"]
         },
         {
-          "id": 2,
+          "id": 3,
           "title": "Dr. Yuan started his new position as an assistant professor at Texas A&M",
           "category": "Career",
           "date": "July 1, 2025",
@@ -444,7 +456,7 @@
           "tags": ["Tenure-track faculty", "Career", "IMPACT-lab"]
         },
         {
-          "id": 3,
+          "id": 4,
           "title": "Invited presentation at University of Chicago",
           "category": "Collaboration",
           "date": "Janunary, 2025",
@@ -457,7 +469,7 @@
           "tags": ["Collaboration", "Origin", "Research"]
         },
         {
-          "id": 4,
+          "id": 5,
           "title": "Featured in Science Magazine",
           "category": "Media",
           "date": "July, 2024",
@@ -470,7 +482,7 @@
           "tags": ["Media", "Science", "Outreach"]
         },
         {
-          "id": 5,
+          "id": 6,
           "title": "Powering Up: Our New NVIDIA GeForce RTX 5080 Has Arrived",
           "category": "Equipment",
           "date": "July 15, 2025",
