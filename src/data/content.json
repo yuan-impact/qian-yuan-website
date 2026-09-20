@@ -633,8 +633,7 @@
 	      "status": "Currently unavailable"
 	    }
 	  ],
-	  "note": "Prospective applicants interested in working with the group are welcome to contact me to discuss potential projects and fellowship applications."
-	},
+	  "note": "Prospective applicants interested in working with the group are welcome to contact me to discuss potential projects and fellowship applications.",
           "requirements": [
             "PhD in Geodynamics, Earth and planetary sciences, Applied and computational mathematics, Physics, and Engineering",
             "Experience with neural operators or PINNs (Physics-Informed Neural Networks)",
