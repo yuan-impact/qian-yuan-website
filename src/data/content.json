@@ -587,10 +587,10 @@
       "positions": [
         {
           "id": 1,
-          "title": "2-3 PhD Student in Geophysics",
+          "title": "2 PhD Student in Geophysics",
           "type": "Graduate Student",
           "department": "Geology and Geophysics",
-          "deadline": "December 1, 2025",
+          "deadline": "December 1, 2026",
           "description": "We are seeking a highly motivated PhD student to apply AI/ML techniques to computational modeling of mantle convection and the early evolution of Earth and other planets. The position will be based at Texas A&M University (TAMU), which hosts some of the best GPU computing resources in the nation, providing unparalleled opportunities for high-performance simulations and AI-driven research. In addition to outstanding computational infrastructure, TAMU offers a competitive stipend and benefits package, while the College Station area is known for its affordable cost of living and welcoming community. This unique combination of resources, support, and environment makes TAMU an ideal place to pursue cutting-edge research in planetary geodynamics and AI-powered Earth sciences.",
           "requirements": [
             "Strong interest in AI/ML technique",
@@ -611,11 +611,30 @@
         },
         {
           "id": 2,
-          "title": "Postdoctoral Researcher in AI-driven geodynamics",
+          "title": "Postdoctoral Researcher in computational geodynamics",
           "type": "Postdoc",
           "department": "Geology and Geophysics",
           "deadline": "Rolling Basis",
-          "description": "We invite applications for a postdoctoral position focused on AI-driven geodynamics. The postdoctoral scholar will work primarily with Prof. Qian Yuan to combine cutting-edge machine learning algorithms – both data-driven and physics-based – with mantle convection to understand planetary evolution and habitability.",
+          "description": "The PI does not currently have dedicated funding for a postdoctoral researcher, but I am happy to support strong candidates applying for relevant postdoctoral fellowships. ",
+	    "departmentalFellowships": [
+	    {
+	      "name": "Michel T. Halbouty Postdoctoral Research Associate",
+	      "institution": "Department of Geology and Geophysics,Texas A&M University",
+	      "url": "https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Michel-T-Halbouty-Postdoctoral-Research-Associate_R-091722-1"
+	    }
+	  ],
+	  "externalFellowships": [
+	    {
+	      "name": "NASA Postdoctoral Program (NPP)",
+	      "url": "https://npp.orau.org/index.html"
+	    },
+	    {
+	      "name": "NSF EAR Postdoctoral Fellowships",
+	      "status": "Currently unavailable"
+	    }
+	  ],
+	  "note": "Prospective applicants interested in working with the group are welcome to contact me to discuss potential projects and fellowship applications."
+	},
           "requirements": [
             "PhD in Geodynamics, Earth and planetary sciences, Applied and computational mathematics, Physics, and Engineering",
             "Experience with neural operators or PINNs (Physics-Informed Neural Networks)",
