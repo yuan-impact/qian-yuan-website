@@ -182,13 +182,31 @@
           "email": "jzhang2026@tamu.edu"
         },
         {
+          "name": "Yuxing Pan",
+          "title": "PhD Student",
+          "affiliation": "Graduate Program in Geophysics",
+          "image": "https://lh3.googleusercontent.com/d/1yESz-Ci33ACaY3BmXhlQ3oFpCVumD9fx",
+          "bio": "Yuxing received his master’s degree from the Southern University of Science and Technology, where he worked on computational seismology and machine learning. He is now developing an deep-learning framework to automatically identify thermal and thermochemical plumes in mantle convection simulations.",
+          "expertise": ["AI/ML", "Computational Modeling"],
+          "email": "yuxingpan@tamu.edu"
+        },
+        {
+          "name": "Zehua Song",
+          "title": "PhD student (Spring 2027)",
+          "affiliation": "Department of Geology & Geophysics",
+          "image": "https://lh3.googleusercontent.com/d/1_0IJdzrbMUpmcco8gcmCKhkYcGbvuGr4",
+          "bio": "Zehua received his master’s degree from China University of Petroleum and is a recipient of Texas A&M’s DREA Fellowship. He will work on developing new computational approaches to accelerate mantle convection simulations.",
+          "expertise": ["Computational Modeling", "Mantle Dynamics", "Numerical method"],
+          "email": "edwardaud@tamu.edu"
+        },
+        {
           "name": "Dr. Mingqi Liu",
-          "title": "Postdoctoral Researcher",
+          "title": "Postdoc alumni",
           "affiliation": "Department of Geology & Geophysics",
           "image": "https://lh3.googleusercontent.com/d/17IrIMhE7GHBXAAnrqzux_vdOZQrhl7Xl",
-          "bio": "Mingqi received his PhD from ETH and completed a two-year postdoctoral fellowship at USC. He is now co-advised by Prof. Benchuan Duan and me. His current research focuses on integrating geodynamic models with seismic cycle simulations to investigate the mechanisms driving Martian seismicity.",
+          "bio": "Mingqi was a postdoctoral researcher working with me and Dr. Benchun Duan and is now a postdoctoral fellow at École Normale Supérieure (ENS), Paris. His previous research couples mantle flow with earthquake-cycle modeling to investigate the thermal structure of subduction zones and the origin of the largest marsquake.",
           "expertise": ["Geodynamics", "Earthquake simulation", "Geophysics"],
-          "email": "mqliu@tamu.edu"
+          "email": "liumq12@outlook.com"
         },
         {
           "name": "Surya Donath",
@@ -207,15 +225,6 @@
           "bio": "Daniel is a geology junior passionate about leveraging the Fourier Neural Operator to accelerate and enhance mantle convection simulations.",
           "expertise": ["AI/ML", "Computational Modeling"],
           "email": "danielrsun@tamu.edu"
-        },
-        {
-          "name": "Yuxing Pan",
-          "title": "PhD Student",
-          "affiliation": "Graduate Program in Geophysics",
-          "image": "https://lh3.googleusercontent.com/d/1yESz-Ci33ACaY3BmXhlQ3oFpCVumD9fx",
-          "bio": "Yuxing received his master’s degree from the Southern University of Science and Technology, where he worked on computational seismology and machine learning. He is now developing an deep-learning framework to automatically identify thermal and thermochemical plumes in mantle convection simulations.",
-          "expertise": ["AI/ML", "Computational Modeling"],
-          "email": "yuxingpan@tamu.edu"
         },
         {
           "name": "PhD Student (Position Available)",
