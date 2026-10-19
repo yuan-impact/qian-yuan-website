@@ -426,7 +426,7 @@
           "date": "September 24, 2026",
           "excerpt": "Our latest study on the giant impact origin of Large Low Shear Velocity Provinces has been published in Nature Geoscience, providing new insights into Earth's early bombardment history.",
           "content": "IGyTheM is a fast, flexible framework that integrates thermodynamic predictions into geodynamic simulations. Using a machine-learning surrogate trained on Gibbs energy minimization calculations, IGyTheM predicts mantle phase equilibria and mineral properties with comparable accuracy but up to 10,000 times faster than conventional approaches. Coupled with the mantle convection code Citcom, it enables efficient, large-scale 2D and 3D coupled geodynamic-thermodynamic simulations. A user-friendly Python interface facilitates integration with existing geodynamic and petrological models, advancing AI-accelerated modeling of Earth's interior.",
-          "image": "https://lh3.googleusercontent.com/d/1GiYmCZbTvt1Qn13UcEb6diJTFiCqsHrs",
+          "image": "https://lh3.googleusercontent.com/d/1ILHO21BLtKxf01Xzdk5ZSc9ka8QCaEb0",
           "tags": ["AI/ML", "Geodynamics", "Thermodynamics"]
         },
         {
